@@ -1,0 +1,179 @@
+.tp-bgimg, .defaultimg {
+	      background: linear-gradient(135deg, rgb(14 77 137) 0%, rgba(0, 200, 200, 0.9) 100%) !important;
+	      border-bottom: transparent;
+	   }
+	   
+	   header .navbar-light .navbar-nav .nav-item {
+		   margin: 0px 15px !important;
+		}
+
+		header.menu-sticky.home {
+		   background: linear-gradient(135deg, rgb(14 77 137) 0%, rgba(0, 200, 200, 0.9) 100%) !important;
+		   position: fixed !important;
+		   top: 0 !important;
+		}
+
+	   header.menu-sticky .logo {
+			height: 50px !important;
+			width: 210px !important;
+		}
+
+
+	   .padding-left-15{
+	      padding-left: 12px;
+	   }
+
+	   .tp-parallax-wrap, h2{
+	   	top: 335 !important;
+	   }
+
+	   .main-bg{	   	
+		   background: linear-gradient(135deg, rgb(14 77 137) 0%, rgba(0, 200, 200, 0.9) 100%) !important;
+	   }
+
+	   footer h4, footer a {
+	   	color: #333333 !important;
+	   }
+
+	   footer{
+	   	color: #868894 !important;
+	   }
+
+	   .max-width-1190{
+	   	max-width: 1190px !important;
+	   }
+
+	   .iq-subscribe .form-control {
+			display: inline-block;
+			background: transparent;
+			border-color: #ffffff;
+			width: 45%;
+			margin-bottom: 0;
+			height: 62px;
+			color: #ffffff;
+			padding: 0 30px;
+			border-radius: 90px;
+		}
+
+    .button {
+      font-family: 'Poppins',sans-serif;
+      -webkit-border-radius: 90px;
+      -moz-border-radius: 90px;
+      border-radius: 90px;
+      color: #ffffff;
+      cursor: pointer;
+      padding: 8px 30px;
+      font-weight: 400;
+      font-size: 16px;
+      position: relative;
+      display: inline-block;
+      transition: all .5s ease-in-out;
+      transition: all .5s ease-in-out;
+      -moz-transition: all .5s ease-in-out;
+      -ms-transition: all .5s ease-in-out;
+      -o-transition: all .5s ease-in-out;
+      -webkit-transition: all .5s ease-in-out;
+      text-transform: capitalize;
+      background: transparent !important;
+      color: #06e24a;
+      z-index: 2;
+      position: relative;
+      overflow: hidden;
+      border: 1px solid #06e24a;
+    }
+
+    .button:hover {
+      font-family: 'Poppins',sans-serif;
+      -webkit-border-radius: 90px;
+      -moz-border-radius: 90px;
+      border-radius: 90px;
+      color: #ffffff;
+      cursor: pointer;
+      padding: 8px 30px;
+      font-weight: 400;
+      font-size: 16px;
+      position: relative;
+      display: inline-block;
+      transition: all .5s ease-in-out;
+      transition: all .5s ease-in-out;
+      -moz-transition: all .5s ease-in-out;
+      -ms-transition: all .5s ease-in-out;
+      -o-transition: all .5s ease-in-out;
+      -webkit-transition: all .5s ease-in-out;
+      text-transform: capitalize;
+      background: #06e24a !important;
+      z-index: 2;
+      position: relative;
+      overflow: hidden;
+      border: 1px solid #06e24a;
+    }
+
+    .btn-free-trial-email {
+		font-family: 'Poppins',sans-serif;
+		-webkit-border-radius: 90px;
+		-moz-border-radius: 90px;
+		border-radius: 90px;
+		color: #ffffff;
+		cursor: pointer;
+		padding: 14px 30px;
+		font-weight: 400;
+		font-size: 16px;
+		position: relative;
+		display: inline-block;
+		transition: all .5s ease-in-out;
+		transition: all .5s ease-in-out;
+		-moz-transition: all .5s ease-in-out;
+		-ms-transition: all .5s ease-in-out;
+		-o-transition: all .5s ease-in-out;
+		-webkit-transition: all .5s ease-in-out;
+		text-transform: capitalize;
+		background: white !important;
+		color: #06e24a;
+		z-index: 2;
+		position: relative;
+		overflow: hidden;
+		border: 1px solid #06e24a;
+	}
+
+    .btn-free-trial-email:hover {
+		font-family: 'Poppins',sans-serif;
+		-webkit-border-radius: 90px;
+		-moz-border-radius: 90px;
+		border-radius: 90px;
+		color: #ffffff !important;
+		cursor: pointer;
+		padding: 14px 30px;
+		font-weight: 400;
+		font-size: 16px;
+		position: relative;
+		display: inline-block;
+		transition: all .5s ease-in-out;
+		transition: all .5s ease-in-out;
+		-moz-transition: all .5s ease-in-out;
+		-ms-transition: all .5s ease-in-out;
+		-o-transition: all .5s ease-in-out;
+		-webkit-transition: all .5s ease-in-out;
+		text-transform: capitalize;
+      background: #06e24a !important;
+		color: #06e24a;
+		z-index: 2;
+		position: relative;
+		overflow: hidden;
+		border: 1px solid #06e24a;
+	}
+
+    .login li:last-child a {
+      background: #ffffff;
+      color: white !important;
+      border: 1px solid #ffffff;
+      -webkit-border-radius: 90px;
+      -moz-border-radius: 90px;
+      border-radius: 90px;
+      font-family: 'Aileron', sans-serif;
+      padding: 6px 30px;
+    }
+
+    .tp-caption img {
+    margin-left: -130px !important;
+}
+

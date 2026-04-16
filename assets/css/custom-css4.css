@@ -1,0 +1,3956 @@
+.codeAE,.codeIn,.ccode-us .codeAll,.codeUS,.ccode-in .codeNM,.ccode-ae .codeD,.ccode-ae .codeA,.ccode-in .codeD,.ccode-gb .codeD,.ccode-uk .codeD,.ccode-ae .code-other1,.codeUK,.i18n-nl .gp-ai-one-customervideo.codeD,.i18n-nl .gp-ai-enterprise .codeD,.i18n-fr .gp-ai-one-customervideo.codeD,.i18n-fr .gp-ai-enterprise .codeD,.i18n-vi .gp-ai-one-customervideo.codeD,.i18n-vi .gp-ai-enterprise .codeD,.i18n-pt-br .gp-ai-one-customervideo.codeD,.i18n-pt-br .gp-ai-enterprise .codeD,.i18n-th .gp-ai-one-customervideo.codeD,.i18n-th .gp-ai-enterprise .codeD {
+    display: none !important
+}
+
+.ccode-ae .codeAE,.ccode-gb .codeUK,.ccode-uk .codeUK,.ccode-in .codeIn,.codeNM,.codeA,.codeD,.i18n-nl .gp-ai-one-customervideo.codeIn,.i18n-nl .gp-ai-enterprise .codeIn,.i18n-fr .gp-ai-one-customervideo.codeIn,.i18n-fr .gp-ai-enterprise .codeIn,.i18n-vi .gp-ai-one-customervideo.codeIn,.i18n-vi .gp-ai-enterprise .codeIn,.i18n-pt-br .gp-ai-one-customervideo.codeIn,.i18n-pt-br .gp-ai-enterprise .codeIn,.i18n-th .gp-ai-one-customervideo.codeIn,.i18n-th .gp-ai-enterprise .codeIn {
+    display: block !important
+}
+
+.ccode-us .codeUS,.ccode-in section.gp-ai-brand .ind-partner li.codeIn,section.gp-ai-brand .ind-partner li.codeNM {
+    display: inline-block !important
+}
+
+.ccode-us .forbes-new,.ccode-uk .forbes-new,.ccode-gb .forbes-new {
+    display: none
+}
+
+.ccode-us .gp-ai-coreValues-bg,.ccode-uk .gp-ai-coreValues-bg,.ccode-gb .gp-ai-coreValues-bg {
+    padding-bottom: 100px
+}
+
+li a.dropdown {
+    color: var(--primary-color)
+}
+
+.i18n-en .gp-ai-home-right .gp-ai-main-app a em {
+    display: none;
+}
+.home-page-header-title{text-align: center !important; margin-bottom: 30px;}
+
+h1 {
+    font-family: var(--gpha-primary-regular);
+    letter-spacing: -0.5px;
+    font-size: 24px;
+    line-height: 1.6;
+    width: 80%;
+    margin: 20px auto 30px;
+    color: var(--secondary-color)
+}
+
+.i18n-en h1 {
+    margin-left: 0;
+    margin-right: 0
+}
+
+.i18n-vi h1 {
+    font: 24px/1.6 var(--gpha-primary-regular)
+}
+
+h3 {
+    letter-spacing: -1px
+}
+
+.blueLink,.learnMorebtn,.trybtn,.gp-ai-btn,.gp-ai-home-right .gp-ai-main-app.gp-ai-exploreprd label,.cta-link a {
+    font-family: var(--gpha-secondary-medium)
+}
+
+.dis-inlineblk {
+    display: inline-block;
+}
+
+.dis-block {
+    display: block
+}
+
+.valign-bottom {
+    vertical-align: bottom
+}
+
+.zgh-left-nav li.search-icon a,.zgh-left-nav li.annoucement-icon a,.input-srch-icon span {
+    display: inline-block;
+    width: 18px;
+    line-height: 1;
+    cursor: pointer
+}
+
+#close-icon-svg {
+    width: 16px
+}
+
+.gp-ai-region-promo-container {
+    background-color: #f8f9fb
+}
+
+.gp-ai-region-promo {
+    max-width: 1160px;
+    margin: 0 auto;
+    background-color: #fff;
+    border: 1px solid #e7ebf0;
+    padding: 20px 50px;
+    border-radius: 3px;
+    margin-bottom: -100px;
+    position: relative;
+    z-index: 12;
+    margin-top: -110px;
+    width: 90%;
+    top: 10px;
+    overflow: hidden;
+    box-shadow: 0 7px 7px rgba(0,0,0,0.03)
+}
+
+.gp-ai-region-promo .newtag {
+    left: 0;
+    right: auto;
+    top: 0;
+    border-radius: 0
+}
+
+.gp-ai-region-promo a {
+    display: flex;
+    align-items: center
+}
+
+.gp-ai-region-promo a span.promoappicon {
+    color: var(--primary-color);
+    font-size: 0;
+    display: flex;
+    align-items: center;
+    letter-spacing: -0.3px
+}
+
+.gp-ai-region-promo .region-content {
+    padding-left: 60px;
+    margin-left: 50px;
+    position: relative;
+    width: 50%
+}
+
+.gp-ai-region-promo .gp-ai-region-image {
+    width: 360px;
+    position: relative;
+    bottom: -20px
+}
+
+.ccode-ae .gp-ai-region-promo .gp-ai-region-image {
+    width: 320px;
+    left: 20px
+}
+
+.gp-ai-region-promo .learnMorebtn {
+    display: inline-block;
+    padding: 14px 46px 15px 29px
+}
+
+.gp-ai-region-promo .gp-ai-region-image img {
+    vertical-align: bottom
+}
+
+.gp-ai-region-promo .zoholics-outer-wrap-img {
+    width: 100%;
+    margin-bottom: 0;
+    display: none
+}
+
+.gp-ai-region-promo .region-content p {
+    font-size: 20px;
+    line-height: 1.4;
+    width: 95%
+}
+
+.gp-ai-region-promo .region-content:before {
+    content: '';
+    height: calc(100% + 10px);
+    display: block;
+    width: 1px;
+    background-color: #e7ebf0;
+    position: absolute;
+    left: 0
+}
+
+.gp-ai-home-right .gp-ai-main-app.gp-ai-exploreprd label,.gp-ai-btn,.blueLink,.trybtn,.learnMorebtn,.made-ind .cta-link a {
+    letter-spacing: .2px
+}
+
+.gp-ai-home-right .gp-ai-main-app .gp-ai-app {
+    display: block;
+    background: var(--product-icons) no-repeat;
+    margin: 4px auto 10px;
+    background-size: 800px auto
+}
+
+.gp-ai-region-promo a span.promoappicon:before {
+    content: '';
+    width: 150px;
+    height: 50px;
+    display: inline-block;
+    position: inherit;
+    margin-right: 16px;
+    background: url(/billing/images/billing-logo.svg) no-repeat;
+    background-size: 145px auto
+}
+
+.gp-ai-home-right .gp-ai-main-app.gp-ai-sign .gp-ai-app {
+    background-position: var(--graph-ai-sign-bp)
+}
+
+.gp-ai-coreValues_col .coreicons,.testimonial-video span em::before {
+    background: url(//www.zohowebstatic.com/sites/zweb/images/zoho_general_pages/gp-ai-newhome-sprite.png) left top no-repeat;
+    background-size: 600px auto
+}
+
+.gp-ai-home-right .gp-ai-main-app .gp-ai-app {
+    position: absolute;
+    width: 41px;
+    height: 39px;
+    left: 0;
+    top: 0
+}
+
+.gp-ai-home-right .gp-ai-main-app:hover .arrow-icon:after {
+    background-position: -107px -76px
+}
+
+h2,.gp-ai-productssect h4,.gp-ai-bundlesect h4 {
+    font-size: 50px
+}
+
+.forbes-new .left .innr-ctn span,.new-vid-sec h5,.gp-ai-coreValues h4 {
+    font-size: 44px;
+    letter-spacing: -1px;
+    line-height: 1.2
+}
+
+.gp-ai-main .wrapper {
+    max-width: 1230px;
+    margin: 0 auto;
+    position: relative;
+    overflow: hidden
+}
+
+.gp-ai-main .gp-ai-banner-sec .wrapper,.gp-ai-region-promo-container .wrapper {
+    overflow: visible
+}
+
+.gp-ai-banner img {
+    width: 100%
+}
+
+.i18n-en .gp-ai-banner picture.cIn,.i18n-en .gp-ai-banner picture.cAe,.i18n-en.ccode-in .gp-ai-banner picture.cDi,.i18n-en.ccode-ae .gp-ai-banner picture.cDi {
+    display: none
+}
+
+.i18n-en.ccode-in .gp-ai-banner picture.cIn,.i18n-en.ccode-ae .gp-ai-banner picture.cAe {
+    display: block
+}
+
+.gp-ai-banner-sec {
+    background-color: var(--bg-color);
+    overflow: hidden;
+    padding: 150px 0 0;
+    position: relative
+}
+
+.gp-ai-banner-sec .outer_wrap {
+    max-width: 1440px;
+    margin: 20px auto 0;
+    overflow: hidden;
+    position: relative
+}
+
+.gp-ai-home-left {
+    width: 100%;
+    padding: 0;
+    text-align: center
+}
+
+.i18n-en .gp-ai-home-left,.gp-ai-one-wrapContent {
+    width: calc(100% - 390px);
+    padding-right: 90px;
+    display: table-cell;
+    text-align: left
+}
+
+.gp-ai-top-head {
+    font-size: 54px;
+    overflow: hidden;
+    color: var(--primary-color);
+    margin-top: 10px;
+    line-height: 1.3;
+    letter-spacing: -1.5px
+}
+
+.text-mask {
+    border-bottom: 1px dashed rgba(0,0,0,0.5);
+    cursor: pointer;
+    transition: color .4s ease,border-color .4s ease;
+    color: var(--primary-color)
+}
+
+.text-mask:hover {
+    color: var(--highlight-color);
+    border-color: var(--highlight-color)
+}
+
+.zgh-left-nav {
+    display: inline-flex;
+    justify-content: flex-end
+}
+
+.gp-ai-color {
+    width: 80px;
+    height: 1px;
+    margin: 20px auto 0;
+    overflow: hidden
+}
+
+.i18n-en .gp-ai-color {
+    margin-right: 0;
+    margin-left: 0
+}
+
+.gp-ai-color span {
+    width: 100%;
+    display: inline-block;
+    background-color: #f60014
+}
+
+.gp-ai-color span {
+    width: 100%;
+    background-color: #f60014
+}
+
+.gp-ai-color {
+    width: 40px
+}
+
+.gp-ai-home-right {
+    width: 435px;
+    background-color: transparent;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    margin-bottom: 28px;
+    color: white !important;
+    position: relative;
+    z-index: 3;
+    top: -132px;
+    float: right;
+}
+
+.i18n-en .gp-ai-home-right {
+    margin-bottom: 230px
+}
+
+.ftapps {
+    padding: 100px 0
+}
+
+.ftapps .gp-ai-home-right {
+    width: 100%;
+    border: 0;
+    display: block
+}
+
+.ftapps .gp-ai-home-right ul {
+    height: 300px
+}
+
+.ftapps .gp-ai-home-right .gp-ai-main-app {
+    display: inline-block;
+    width: 20%;
+    padding: 15px 22px;
+    border-right: 1px solid #eaeef4
+}
+
+.ftapps .gp-ai-home-right .gp-ai-main-app:last-child {
+    border-right: 0
+}
+
+.ftapps .gp-ai-home-right .gp-ai-main-app .gp-ai-app {
+    position: relative;
+    margin-bottom: 20px
+}
+
+.ftapps .gp-ai-home-right .gp-ai-main-app a {
+    padding: 0;
+    text-align: center
+}
+
+.ftapps .gp-ai-home-right .gp-ai-main-app .gp-ai-content {
+    width: 100%
+}
+
+.ftapps .gp-ai-home-right ul {
+    padding-top: 50px
+}
+
+.ftapps .gp-ai-home-right ul em {
+    margin-top: 15px
+}
+
+.ftapps .gp-ai-home-right h4 {
+    font-size: 44px;
+    letter-spacing: -1px;
+    text-align: center
+}
+
+.btncontainer {
+    text-align: center;
+    margin-top: 80px
+}
+
+.btncontainer a {
+    display: inline-block
+}
+
+ .btncontainer {
+    text-align: left;
+    padding: 30px 41px;
+    border-top: 1px solid #ddd !important;
+    margin-top: 20px
+}
+
+.i18n-en .btncontainer a {
+    color: var(--highlight-color);
+    text-transform: uppercase;
+    font-size: 14px;
+    letter-spacing: .1px;
+    font-family: var(--gpha-secondary-medium);
+    display: block;
+    width: 100%
+}
+
+.btncontainer a label {
+    cursor: pointer
+}
+
+.btncontainer a span.blueLink {
+    display: block
+}
+
+.gp-ai-home-right-title {
+    font-size: 13px;
+    text-transform: uppercase;
+    letter-spacing: .5px;
+    padding: 12px 40px 30px;
+    text-align: center;
+    font-weight: 600;
+    color: #111827;
+}
+
+.gp-ai-home-right ul {
+    padding: 10px 0 0;
+    height: 552px
+}
+
+.gp-ai-home-right .gp-ai-main-app,.gp-ai-productssect__tabs .gp-ai-sec-apps,.gp-ai-bundle-apps {
+    position: relative;
+    padding: 6px 40px;
+    cursor: pointer;
+    transition: background-color .4s ease;
+    border-radius: 3px
+}
+
+.gp-ai-home-right .gp-ai-main-app {
+    border-radius: unset;
+    display: none
+}
+
+.gp-ai-home-right .gp-ai-main-app.zapp-show {
+    display: block
+}
+
+.ftapps .gp-ai-home-right .gp-ai-main-app.zapp-show {
+    display: inline-block
+}
+
+.gp-ai-home-right .gp-ai-main-app.gp-ai-exploreprd,.explore-btn {
+    padding: 0;
+    border-top: 1px solid #e7ebf0;
+    margin-top: 15px;
+    text-align: center
+}
+
+.gp-ai-home-right .gp-ai-main-app.gp-ai-exploreprd a,.explore-btn a {
+    padding: 28px 42px;
+    -webkit-font-smoothing: initial !important;
+    -moz-osx-font-smoothing: initial !important;
+    text-rendering: initial
+}
+
+.explore-btn a,.explore-btn .gp-ai-content {
+    display: block
+}
+
+.gp-ai-home-right .gp-ai-main-app.gp-ai-exploreprd .gp-ai-content,.explore-btn .gp-ai-content {
+    width: 90%;
+    font-family: var(--gpha-secondary-medium)
+}
+
+.gp-ai-home-right .gp-ai-main-app a em {
+    display: none
+}
+
+.gp-ai-dropdown-item:hover a {
+    color: var(--highlight-color)
+}
+
+.gp-ai-dropdown-list a.active {
+    color: var(--highlight-color)
+}
+
+.cta-link a {
+    color: var(--highlight-color);
+    text-transform: uppercase;
+    display: inline-block
+}
+
+.cta-link a::after,.gp-ai-contact ul li.lst-cnt.fin-ctn::after {
+    width: 18px;
+    height: 18px;
+    position: relative;
+    right: -5px;
+    top: 4px;
+    display: inline-block;
+    background-position: -101px -301px;
+    transform: translateX(0);
+    transition: transform .3s ease
+}
+
+.cta-link a:hover::after,.gp-ai-contact ul li.lst-cnt.fin-ctn:hover::after,.arrow-icon.blueLink:hover:after,.arrow-icon.white:hover::after,.gp-ai-bundlesect__com .gp-ai-bundle-apps:hover .arrow-icon.blueLink:after,.gp-ai-home-right .gp-ai-main-app.gp-ai-exploreprd:hover a span.gp-ai-content.arrow-icon:after,.explore-btn:hover a span.gp-ai-content.arrow-icon:after {
+    transform: translateX(5px)
+}
+
+.arrow-icon {
+    position: relative
+}
+
+.arrow-icon:after {
+    content: "";
+    width: 13px;
+    height: 13px;
+    transform: scale(1.1);
+    position: absolute;
+    right: 0;
+    background: url(assets/images/gh-newhome-sprite) left top no-repeat;
+    background-size: 500px auto;
+    background-position: -126px -76px;
+    top: calc(50% - 10px);
+    transition: all .5s ease
+}
+
+.gp-ai-home-right .gp-ai-main-app .arrow-icon:after {
+    transform: scale(1)
+}
+
+.learnMorebtn.arrow-icon.white::after {
+    background-position: -72px -76px;
+    top: calc(50% - 7px);
+    transform: scale(1)
+}
+
+.learnMorebtn.arrow-icon.white:hover::after {
+    transform: scale(1) translateX(5px)
+}
+
+.fin-ctn .arrow-icon.blueLink:after {
+    animation: unset
+}
+
+.made-ind .cta-link a:after {
+    background-position: -99px -204px;
+    background-size: 800px auto;
+    top: 5px
+}
+
+.gp-ai-home-right .gp-ai-main-app.gp-ai-exploreprd a span.gp-ai-content.arrow-icon:after,.explore-btn a span.gp-ai-content.arrow-icon:after {
+    background-position: -108px -76px;
+    opacity: 1;
+    right: 22px;
+    transform: scale(1);
+    top: 3px
+}
+
+.explore-btn a span.gp-ai-content.arrow-icon:after {
+    top: 6px
+}
+
+.gp-ai-home-right .gp-ai-main-app.active a.arrow-icon:after {
+    background-position: -108px -76px;
+    opacity: 1
+}
+
+.tick_icon {
+    width: 10px;
+    margin-left: 7px
+}
+
+.gp-ai-home-right .gp-ai-main-app a,.gp-ai-productssect__tabs .gp-ai-sec-apps a,.gp-ai-bundle-apps a {
+    font-size: 20px;
+    position: relative;
+    display: inline-block;
+    padding: 0 0 0 70px;
+    width: 100%;
+    color: #111827;
+}
+
+.gp-ai-productssect__tabs .gp-ai-sec-apps a,.gp-ai-bundle-apps a {
+    padding: 0 0 0 80px
+}
+
+.gp-ai-home-right .gp-ai-main-app .gp-ai-content,.gp-ai-productssect__tabs .gp-ai-sec-apps .gp-ai-content,.gp-ai-bundle-apps .gp-ai-content {
+    display: block;
+    width: 82%
+}
+
+.gp-ai-home-right .gp-ai-main-app .gp-ai-content {
+    width: 84%
+}
+
+.gp-ai-home-right .gp-ai-main-app.gp-ai-meeting .gp-ai-app {
+    transform: scale(1.1)
+}
+
+.gp-ai-home-right .gp-ai-main-app .gp-ai-content label,.gp-ai-home-right .gp-ai-main-app .gp-ai-content small,.gp-ai-productssect__tabs .gp-ai-sec-apps .gp-ai-content label,.gp-ai-productssect__tabs .gp-ai-sec-apps .gp-ai-content small,.gp-ai-bundle-apps .gp-ai-content label {
+    display: block;
+    color: var(--primary-color);
+    font-size: 24px;
+    cursor: pointer
+}
+
+.gp-ai-home-right .gp-ai-main-app .gp-ai-content label {
+    letter-spacing: -0.3px; margin-bottom: 14px; font-weight: 600;
+}
+
+.gp-ai-home-right .gp-ai-main-app .gp-ai-content small,.gp-ai-productssect__tabs .gp-ai-sec-apps .gp-ai-content small,.gp-ai-bundle-apps .gp-ai-content small {
+    color: var(--secondary-color)
+}
+
+.gp-ai-home-right .gp-ai-main-app .gp-ai-content small,.gp-ai-productssect__tabs .gp-ai-sec-apps .gp-ai-content small {
+    font-size: 14px;
+    line-height: 1.45
+}
+
+.gp-ai-home-right .gp-ai-main-app .gp-ai-content small {
+    height: 60px
+}
+
+.gp-ai-home-right .gp-ai-main-app:hover .arrow-icon:after {
+    transform: translateX(5px)
+}
+
+.gp-ai-home-right .gp-ai-main-app.gp-ai-exploreprd label,.explore-btn label {
+    color: var(--highlight-color);
+    text-transform: uppercase;
+    font-size: 14px;
+    letter-spacing: .1px
+}
+
+.gp-ai-home-right .gp-ai-main-app.gp-ai-crm .gp-ai-app {
+    background-position: var(--graph-ai-crm-bp);
+    margin-top: 1px
+}
+
+.gp-ai-home-right .gp-ai-main-app.gp-ai-cliq .gp-ai-app {
+    background-position: var(--graph-ai-cliq-bp);
+    margin-top: 4px
+}
+
+.gp-ai-home-right .gp-ai-main-app.gp-ai-mail .gp-ai-app {
+    background-position: var(--graph-ai-mail-bp);
+}
+
+.gp-ai-home-right .gp-ai-main-app.gp-ai-workplace .gp-ai-app {
+    background-position: var(--graph-ai-workplace-bp);
+    transform: scale(1.10)
+}
+
+.gp-ai-home-right .gp-ai-main-app.gp-ai-books .gp-ai-app {
+    background-position: var(--graph-ai-books-bp)
+}
+
+.gp-ai-home-right .gp-ai-main-app.gp-ai-creator .gp-ai-app {
+    background-position: var(--graph-ai-creator-bp)
+}
+
+.gp-ai-home-right .gp-ai-main-app.gp-ai-workdrive .gp-ai-app {
+    background-position: var(--graph-ai-workdrive-bp)
+}
+
+.gp-ai-home-right .gp-ai-main-app.gp-ai-campaigns .gp-ai-app {
+    background-position: var(--graph-ai-campaigns-bp)
+}
+
+.gp-ai-home-right .gp-ai-main-app.gp-ai-people .gp-ai-app {
+    background-position: var(--graph-ai-people-bp)
+}
+
+.gp-ai-home-right .gp-ai-main-app.gp-ai-survey .gp-ai-app {
+    background-position: var(--graph-ai-survey-bp)
+}
+
+.gp-ai-home-right .gp-ai-main-app.gp-ai-sites .gp-ai-app {
+    background-position: var(--graph-ai-sites-bp)
+}
+
+.gp-ai-home-right .gp-ai-main-app.gp-ai-vault .gp-ai-app {
+    background-position: var(--graph-ai-vault-bp)
+}
+
+.gp-ai-home-right .gp-ai-main-app.gp-ai-desk .gp-ai-app {
+    background-position: var(--graph-ai-desk-bp)
+}
+
+.gp-ai-home-right .gp-ai-main-app.gp-ai-projects .gp-ai-app {
+    background-position: var(--graph-ai-projects-bp)
+}
+
+.gp-ai-home-right .gp-ai-main-app.gp-ai-assist .gp-ai-app {
+    background-position: var(--graph-ai-assist-bp)
+}
+
+.gp-ai-home-right .gp-ai-main-app.gp-ai-recruit .gp-ai-app {
+    background-position: var(--graph-ai-recruit-bp)
+}
+
+.gp-ai-home-right .gp-ai-main-app.gp-ai-social .gp-ai-app {
+    background-position: var(--graph-ai-social-bp)
+}
+
+.gp-ai-home-right .gp-ai-main-app.gp-ai-analytics .gp-ai-app {
+    background-position: var(--graph-ai-analytics-bp)
+}
+
+.gp-ai-home-right .gp-ai-main-app.gp-ai-connect .gp-ai-app {
+    background-position: var(--graph-ai-connect-bp);
+    height: 40px;
+    margin-top: 5px
+}
+
+.gp-ai-home-right .gp-ai-main-app.gp-ai-backstage .gp-ai-app {
+    background-position: var(--graph-ai-backstage-bp)
+}
+
+.gp-ai-home-right .gp-ai-main-app.gp-ai-teaminbox .gp-ai-app {
+    background-position: var(--graph-ai-teaminbox-bp)
+}
+
+.gp-ai-home-right .gp-ai-main-app.gp-ai-dataprep .gp-ai-app {
+    background-position: var(--graph-ai-dataprep-bp)
+}
+
+.gp-ai-home-right .gp-ai-main-app.gp-ai-flow .gp-ai-app {
+    background-position: var(--graph-ai-flow-bp)
+}
+
+.gp-ai-home-right .gp-ai-main-app.gp-ai-forms .gp-ai-app {
+    background-position: var(--graph-ai-forms-bp)
+}
+
+.gp-ai-home-right .gp-ai-main-app.gp-ai-backtowork .gp-ai-app {
+    background-position: var(--graph-ai-backtowork-bp)
+}
+
+.gp-ai-home-right .gp-ai-main-app.gp-ai-catalyst .gp-ai-app {
+    background-position: var(--graph-ai-catalyst-bp)
+}
+
+.gp-ai-main-app .new-tag {
+    position: relative;
+    left: 70px;
+    background: #46b357;
+    padding: 4px 6px 2px;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 10px;
+    border-radius: 2px;
+    font-family: var(--gpha-secondary-medium)
+}
+
+.gp-ai-banner {
+    width: 95%;
+    margin: 20px auto 0;
+    display: flex;
+    align-items: flex-end;
+    position: relative;
+    left: 0;
+    height: 300px
+}
+
+.i18n-en .gp-ai-banner {
+    width: calc(100% + 280px);
+    margin: 20px auto 0;
+    display: flex;
+    align-items: flex-end;
+    position: relative;
+    left: -150px;
+    top: auto;
+    z-index: 2
+}
+
+.gp-ai-banner .banner-img {
+    outline: 0;
+    border: 0
+}
+
+.gp-ai-one-suite {
+    margin-top: 0
+}
+
+.gp-ai-text {
+    font-size: 12px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 20px
+}
+
+.gp-ai-one-suite {
+    background-color: #fed600;
+    position: relative;
+    padding: 120px 0;
+    overflow: hidden
+}
+
+.i18n-en .gp-ai-one-suite {
+    background-color: #fed600;
+    padding: 0;
+    position: relative;
+    overflow: hidden
+}
+
+.gp-ai-one-suite .outer_wrap {
+    overflow: hidden;
+    width: 100%;
+    padding: 230px 0 120px
+}
+
+.gp-ai-one-logo {
+    text-align: center
+}
+
+.gp-ai-one-logo a {
+    display: block;
+    color: var(--primary-color);
+    font-size: 40px;
+    letter-spacing: -0.5px
+}
+
+.gp-ai-one-logo a span:before {
+    margin: 20px auto 40px;
+    transform: scale(2.3)
+}
+
+.gp-ai_productnav .gp-ai_productnav__tabs.categoriesdropdown.suites-tab .gp-ai-one-logo a span:before {
+    transform: scale(0.8);
+    position: relative;
+    left: -10px
+}
+
+.gp-ai_productnav__bottomband .gp-ai-productssect__left li .side_nav {
+    width: 190px
+}
+
+.gp-ai-one-logo a sub {
+    color: var(--primary-color);
+    font-size: 18px;
+    letter-spacing: 0;
+    margin-top: -2px
+}
+
+.gp-ai-one-content {
+    width: calc(100% - 100px);
+    padding: 0 90px 0 70px;
+    border-right: 1px dashed #d0b31c
+}
+
+.gp-ai-one-content h3 {
+    font-size: 50px;
+    line-height: 1.2;
+    margin-bottom: 0;
+    letter-spacing: -1.5px
+}
+
+.gp-ai-one-title {
+    font-size: 18px;
+    margin-bottom: 20px
+}
+
+.gp-ai-one-content p {
+    margin-bottom: 30px;
+    font-size: 18px;
+    letter-spacing: -0.2px;
+    line-height: 1.7;
+    width: 500px
+}
+
+.gp-ai-one-content sub {
+    font-size: 16px
+}
+
+.gp-ai-one-customervideo {
+    width: 370px;
+    float: left
+}
+
+.gp-ai-one-customervideo span {
+    position: relative;
+    width: 260px
+}
+
+.gp-ai-one-customervideo .testimonialcont .quotes {
+    top: -79px
+}
+
+.codeIn .testimonial-video span a,.ccode-gb .testimonial-video span a {
+    font-size: 11px;
+    margin-top: 5px;
+    padding-right: 21px;
+    margin-left: 8px
+}
+
+.codeIn .testimonial-video span a.arrow-icon.blueLink:after,.ccode-gb .testimonial-video span a.arrow-icon.blueLink:after {
+    transform: scale(0.8) !important;
+    animation-play-state: paused;
+    transition: all .3s ease
+}
+
+.codeIn .testimonial-video span a.arrow-icon.blueLink:hover:after,.ccode-gb .testimonial-video span a.arrow-icon.blueLink:hover:after {
+    right: 0
+}
+
+.testimonial-video span em:before {
+    content: "";
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    background-position: -216px -220px;
+    top: calc(50% - 25px);
+    right: calc(50% - 25px);
+    background-size: 900px auto
+}
+
+.testimonialvid {
+    display: table;
+    margin-bottom: 20px
+}
+
+.testimonialvid__dtls {
+    display: table-cell;
+    vertical-align: middle
+}
+
+.testimonialvid__dtls img {
+    width: 90px
+}
+
+.testimonialvid__dtls.cust-dtls {
+    padding-left: 20px;
+    padding-top: 11px
+}
+
+.testimonialvid__dtls.cust-dtls span {
+    font-family: var(--primary-color);
+    font-size: 18px;
+    line-height: 1
+}
+
+.testimonialvid__dtls.cust-dtls p {
+    font-size: 14px;
+    line-height: 1.4;
+    margin-top: 2px
+}
+
+.gp-ai-one-suite .wrapper::after {
+    content: "";
+    background: url("//www.zohowebstatic.com/sites/zweb/images/zoho_general_pages/gp-ai-one-bg.png") no-repeat;
+    background-size: 70%;
+    width: 490px;
+    height: 700px;
+    position: absolute;
+    right: -350px;
+    top: 170px;
+    z-index: -1;
+    opacity: .8
+}
+
+.gp-ai-one-suite .wrapper {
+    z-index: 1;
+    display: flex;
+    align-items: center;
+    overflow: visible
+}
+
+.trybtn,.learnMorebtn {
+    background-color: #f60014;
+    color: #fff;
+    text-transform: uppercase;
+    border-radius: 2px;
+    line-height: 1;
+    transition: background-color .4s ease;
+    border: 1px solid var(--highlight-color)
+}
+
+.trybtn.border-black {
+    border: 1px solid #f60014
+}
+
+.trybtn.arrow-icon:after {
+    transform: scale(1)
+}
+
+.watchVid.learnMorebtn.arrow-icon::after {
+    display: none
+}
+
+.new-vid-sec .watchVid.learnMorebtn {
+    padding-left: 50px;
+    padding-right: 30px;
+    cursor: pointer
+}
+
+.blueLink {
+    color: var(--highlight-color);
+    text-transform: uppercase;
+    padding-right: 28px
+}
+
+.learnMorebtn {
+    background-color: var(--highlight-color);
+    color: #fff;
+    border-radius: 2px;
+    display: inline-block
+}
+
+.gp-ai-bundlesect__com .blueLink {
+    font-size: 12px
+}
+
+section.gp-ai-brand {
+    text-align: center;
+    border-bottom: 0;
+    background: var(--bg-color)
+}
+
+section.gp-ai-brand .wrapper {
+    padding: 90px 0;
+    max-width: 1290px
+}
+
+section.gp-ai-brand h3 {
+    font-size: 13px;
+    letter-spacing: .5px;
+    text-transform: uppercase;
+    font-family: "Zoho_Puvi_Medium"
+}
+
+section.gp-ai-brand h3::after {
+    content: "";
+    width: 30px;
+    height: 1px;
+    background-color: #f60014;
+    display: block;
+    margin: 20px auto 0
+}
+
+section.gp-ai-brand h3 .gp-ai-color {
+    margin: 12px auto;
+    width: 45px;
+    height: 1px
+}
+
+.gp-ai-home-brand {
+    margin: 30px 0 50px
+}
+
+section.gp-ai-brand li {
+    display: inline-block;
+    text-align: left;
+    transform: scale(1.08)
+}
+
+section.gp-ai-brand li:not(:last-child) {
+    margin-right: 5.7%
+}
+
+section.gp-ai-brand li span {
+    width: 80px;
+    background: url(//www.zohowebstatic.com/sites/zweb/images/zoho_general_pages/zoho_partners_brand.png) no-repeat 0 0;
+    background-size: 0;
+    height: 44px;
+    background-position: 0 0;
+    background-size: 610px auto;
+    margin-right: 40px;
+    display: inline-block
+}
+
+section.gp-ai-brand li.zb-netflix span {
+    background-position: 0 0;
+    width: 78px
+}
+
+section.gp-ai-brand li.zb-apple span {
+    background-position: -87px 0;
+    width: 32px
+}
+
+section.gp-ai-brand li.zb-adidas span {
+    background-position: -127px 0;
+    width: 50px
+}
+
+section.gp-ai-brand li.zb-discovery span {
+    background-position: -187px 0;
+    width: 120px
+}
+
+section.gp-ai-brand li.zb-amazon span {
+    background-position: -319px 0;
+    width: 84px
+}
+
+section.gp-ai-brand li.zb-nike span {
+    background-position: -418px 0;
+    width: 57px
+}
+
+section.gp-ai-brand li.zb-tata span {
+    background-position: -482px 0;
+    margin-right: 0;
+    width: 133px;
+    height: 36px
+}
+
+section.gp-ai-brand .ind-partner li.zb-netflix span {
+    background-position: -404px -423px;
+    width: 93px;
+    height: 46px
+}
+
+section.gp-ai-brand .ind-partner li.zb-facebook span {
+    background-position: -404px -423px;
+    width: 93px;
+    height: 46px
+}
+
+section.gp-ai-brand .ind-partner li.zb-hp span {
+    background-position: -520px -423px;
+    width: 33px;
+    height: 46px
+}
+
+section.gp-ai-brand .ind-partner li {
+    display: inline-block;
+    text-align: center;
+    transform: scale(1.02);
+    padding: 20px 0;
+    height: 90px;
+    border-radius: 3px
+}
+
+.ccode-au section.gp-ai-brand .ind-partner li span,.ccode-nz section.gp-ai-brand .ind-partner li span {
+    background-size: 1000px auto
+}
+
+.ccode-ae section.gp-ai-brand .ind-partner li {
+    margin: 0 3%
+}
+
+.ccode-uk section.gp-ai-brand .ind-partner li,.ccode-gb section.gp-ai-brand .ind-partner li {
+    margin: 0 2.5%
+}
+
+.ccode-in section.gp-ai-brand .ind-partner li,.ccode-us section.gp-ai-brand .ind-partner li {
+    margin: 0 1.7%
+}
+
+section.gp-ai-brand .ind-partner li {
+    margin: 0 3.7%
+}
+
+.ccode-au section.gp-ai-brand .ind-partner li,.ccode-nz section.gp-ai-brand .ind-partner li,.i18n-fr section.gp-ai-brand .ind-partner li {
+    margin: 0 2.8%
+}
+
+section.gp-ai-brand .ind-partner li.zb-australiansports span {
+    background-position: -256px -356px;
+    width: 75px
+}
+
+section.gp-ai-brand .ind-partner li.zb-funding span {
+    background-position: -355px -357px;
+    width: 183px
+}
+
+section.gp-ai-brand .ind-partner li.zb-printiq span {
+    background-position: -560px -357px;
+    width: 145px
+}
+
+section.gp-ai-brand .ind-partner li.zb-ibrs span {
+    background-position: -728px -353px;
+    width: 136px
+}
+
+section.gp-ai-brand .ind-partner li.tpgtelecom span {
+    background-position: -882px -353px;
+    width: 100px;
+    height: 86px
+}
+
+section.gp-ai-brand .ind-partner li.zb-livin span {
+    background-position: -8px -417px;
+    width: 66px
+}
+
+section.gp-ai-brand .ind-partner li.zb-nhs span {
+    background-position: -83px -353px;
+    width: 70px
+}
+
+section.gp-ai-brand .ind-partner li span {
+    width: 90px;
+    background: url(//www.zohowebstatic.com/sites/zweb/images/zoho_general_pages/zoho_ind_partners_brand.png) no-repeat 0 0;
+    height: 44px;
+    background-position: 0 0;
+    background-size: 850px auto;
+    margin-right: 0;
+    display: inline-block
+}
+
+.ccode-ae section.gp-ai-brand .ind-partner li span {
+    transform: scale(1.2)
+}
+
+.ccode-ae section.gp-ai-brand .ind-partner li {
+    margin: 0 4.5%
+}
+
+section.gp-ai-brand .ind-partner li.zb-toi {
+    width: 180px
+}
+
+section.gp-ai-brand .ind-partner li.zb-medLife span {
+    background-position: 1px 0;
+    width: 86px
+}
+
+section.gp-ai-brand .ind-partner li.zb-amazon span {
+    background-position: -1px -171px;
+    width: 110px;
+    height: 50px
+}
+
+section.gp-ai-brand .ind-partner li.zb-purolite span {
+    background-position: -118px -178px;
+    width: 125px
+}
+
+section.gp-ai-brand .ind-partner li.zb-itv span {
+    background-position: -173px -353px;
+    width: 53px
+}
+
+section.gp-ai-brand .ind-partner li.zb-newcross span {
+    background-position: -242px -353px;
+    width: 113px
+}
+
+section.gp-ai-brand .ind-partner li.zb-shawbrookbank span {
+    background-position: -372px -353px;
+    width: 106px
+}
+
+section.gp-ai-brand .ind-partner li.zb-strike span {
+    background-position: -625px -353px;
+    width: 78px
+}
+
+section.gp-ai-brand .ind-partner li.zb-paydek span {
+    background-position: -503px -353px;
+    width: 106px
+}
+
+section.gp-ai-brand .ind-partner li.zb-iifl span {
+    background-position: -360px -6px;
+    width: 105px
+}
+
+section.gp-ai-brand .ind-partner li.zb-maxlife span {
+    background-position: -430px -180px;
+    width: 75px;
+    height: 50px
+}
+
+section.gp-ai-brand .ind-partner li.zb-daimler span {
+    background-position: -610px -117px;
+    width: 129px;
+    height: 42px;
+    position: relative;
+    top: 3px
+}
+
+section.gp-ai-brand .ind-partner li.zb-tatasky span {
+    background-position: -546px -180px;
+    width: 134px
+}
+
+section.gp-ai-brand .ind-partner li.zb-maxlife span {
+    background-position: -430px -180px;
+    width: 75px;
+    height: 50px
+}
+
+section.gp-ai-brand .ind-partner li.zb-loreal span {
+    background-position: -100px -125px;
+    width: 90px
+}
+
+section.gp-ai-brand .ind-partner li.zb-zomoto span {
+    background-position: -147px 0;
+    width: 91px
+}
+
+section.gp-ai-brand .ind-partner li.zb-daimler span {
+    background-position: -262px -180px;
+    width: 150px
+}
+
+section.gp-ai-brand .ind-partner li.zb-shiji span {
+    background-position: -87px 0;
+    width: 60px
+}
+
+section.gp-ai-brand .ind-partner li.zb-spicejet span {
+    background-position: -246px 0;
+    width: 105px
+}
+
+section.gp-ai-brand .ind-partner li.zb-toi span {
+    background-position: -653px 0;
+    margin-right: 0;
+    width: 190px;
+    height: 54px
+}
+
+section.gp-ai-brand .ind-partner li.zb-renault span {
+    background-position: -203px -53px;
+    margin-right: 0;
+    width: 107px;
+    height: 55px
+}
+
+section.gp-ai-brand .ind-partner li.zb-facebook span {
+    background-position: -578px -53px;
+    width: 95px;
+    height: 55px
+}
+
+section.gp-ai-brand .ind-partner li.zb-kempinski span {
+    width: 102px;
+    background-position: -137px -240px
+}
+
+section.gp-ai-brand .ind-partner li.zb-aviation span {
+    background-position: -3px -240px;
+    width: 109px
+}
+
+section.gp-ai-brand .ind-partner li.zb-kpmg span {
+    background-position: -755px -67px;
+    width: 69px
+}
+
+section.gp-ai-brand .ind-partner li.zb-lulu span {
+    background-position: -281px -240px;
+    width: 109px
+}
+
+section.gp-ai-brand .ind-partner li.zb-sharaf span {
+    background-position: -523px -238px;
+    width: 125px
+}
+
+section.gp-ai-brand .ind-partner li.zb-sergas span {
+    background-position: -700px -237px;
+    width: 67px;
+    height: 46px
+}
+
+section.gp-ai-brand .ind-partner li.zb-iffo span {
+    background-position: -11px -297px;
+    width: 52px;
+    height: 46px
+}
+
+section.gp-ai-brand .ind-partner li.zb-leminar span {
+    width: 52px;
+    height: 59px;
+    background-position: -323px -413px
+}
+
+section.gp-ai-brand .ind-partner li.zb-cafu span {
+    background-position: -6px -423px;
+    width: 110px;
+    height: 46px
+}
+
+section.gp-ai-brand .ind-partner li.zb-papajohns span {
+    background-position: -146px -423px;
+    width: 63px;
+    height: 46px
+}
+
+section.gp-ai-brand .ind-partner li.zb-papajohns span {
+    background-position: -146px -423px;
+    width: 63px;
+    height: 46px
+}
+
+section.gp-ai-brand .ind-partner li.zb-mtn span {
+    background-position: -237px -423px;
+    width: 58px;
+    height: 48px
+}
+
+section.gp-ai-brand .ind-partner li.zb-manomano span {
+    background-position: -571px -418px;
+    width: 136px
+}
+
+section.gp-ai-brand .ind-partner li.zb-planity span {
+    background-position: -723px -418px;
+    width: 114px
+}
+
+section.gp-ai-brand .ind-partner li.zb-allopneus span {
+    background-position: -14px -485px;
+    width: 152px;
+    height: 50px
+}
+
+section.gp-ai-brand .ind-partner li.zb-saintgobain span {
+    background-position: -195px -485px;
+    width: 107px;
+    height: 50px
+}
+
+.gp-ai-enterprise .wrapper {
+    padding: 120px 60px 75px
+}
+
+.gp-ai-enpriseleft,.gp-ai-enpriseright {
+    width: 50%
+}
+
+.gp-ai-enpriseright {
+    padding-left: 90px;
+    padding-top: 48px
+}
+
+.gp-ai-enpriseleft {
+    border-radius: 8px;
+    background-color: #fff;
+    padding: 15px
+}
+
+.testimonialbox {
+    padding: 30px 30px 30px 45px;
+    display: table
+}
+
+.testimonialcont p {
+    font-family: var(--gpha-splfontserif-light);
+    font-weight: 300;
+    margin-bottom: 45px;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    font-size: 24px;
+    line-height: 1.4;
+    width: 90%;
+    color: var(--primary-color)
+}
+
+.gp-ai-one-suite .testimonialcont p {
+    margin-bottom: 26px;
+    width: 100%
+}
+
+.gp-ai-enterprise .testimonialcont p {
+    font-size: 20px;
+    margin-bottom: 24px
+}
+
+.gp-ai-enterprise .testimonialcont p {
+    font-size: 22px;
+    letter-spacing: 0;
+    line-height: 1.5
+}
+
+.testimonialcont {
+    display: table-cell;
+    vertical-align: top;
+    position: relative;
+    width: 72%;
+    padding-top: 10px
+}
+
+.gp-ai-one-suite .testimonialcont {
+    padding-top: 0
+}
+
+.gp-ai-one-suite .testimonialcont .quotes {
+    width: 42px;
+    height: 42px
+}
+
+.gp-ai-one-suite .gp-ai-one-customervideo .testimonialcont .quotes {
+    top: -68px
+}
+
+.gp-ai-one-suite .gp-ai-one-customervideo {
+    position: relative;
+    top: 25px
+}
+
+.testimonialcont .quotes {
+    width: 52px;
+    height: 52px;
+    background-color: #000;
+    position: absolute;
+    top: -65px;
+    border-radius: 50%;
+    font-size: 0;
+    left: 0
+}
+
+.gp-ai-enterprise .testimonialcont .quotes {
+    background-color: var(--primary-color)
+}
+
+.testimonialcont .quotes:after {
+    content: "";
+    width: 20px;
+    height: 20px;
+    background: url(assets/images/gh-newhome-sprite.png) left top no-repeat;
+    background-position: -20px -20px;
+    background-size: 500px auto;
+    margin-bottom: 0;
+    position: absolute;
+    left: 10px;
+    top: calc(50% - 14px)
+}
+
+.gp-ai-enterprise .testimonialcont .quotes:after {
+    left: 15px
+}
+
+.testimonialcont .foundername {
+    font-size: 18px;
+    line-height: 1;
+    margin-bottom: 2px;
+    font-family: var(--gpha-secondary-medium)
+}
+
+.testimonialcont .desig {
+    font-size: 14px;
+    color: var(--secondary-color);
+    display: inline-block;
+    line-height: 1.2;
+    margin-top: 4px
+}
+
+.testimonial-video {
+    position: relative;
+    top: 0;
+    cursor: pointer
+}
+
+.testimonial-video img {
+    max-width: 85%
+}
+
+.testimonial-video span {
+    text-align: center
+}
+
+.testimonial-video span em:before {
+    width: 46px;
+    height: 46px;
+    background-position: -21px -49px;
+    top: 0;
+    right: 0;
+    background-size: 500px auto;
+    transform: scale(0.6);
+    transition: transform .4s ease;
+    position: relative;
+    margin-right: 0;
+    margin-left: 0
+}
+
+.testimonial-video span em {
+    display: flex;
+    font-size: 14px;
+    justify-content: center;
+    letter-spacing: -0.2px;
+    align-items: center
+}
+
+.testimonial-video em:hover:before {
+    transform: scale(0.7)
+}
+
+h2 {
+    margin: 50px 0 15px;
+    width: 70%;
+    letter-spacing: -1.5px;
+    line-height: 1.2
+}
+
+.gp-ai-enpriseright p {
+    font-size: 18px;
+    line-height: 1.7;
+    margin-bottom: 30px;
+    letter-spacing: -0.2px
+}
+
+.made-ind {
+    background: #0a73c0;
+    background-color: var(--bg-blue-color);
+    position: relative;
+    padding: 70px 0 134px;
+    overflow: hidden
+}
+
+.made-ind .made-ind-left {
+    width: 51%;
+    overflow: hidden;
+    position: relative;
+    z-index: 2
+}
+
+.lang-rtl .made-ind .made-ind-left {
+    overflow: visible
+}
+
+.made-ind .made-ind-left h2,.made-ind .cta-link a {
+    color: #fff
+}
+
+.i18n-en .ccode-in .made-ind .made-ind-left h2 {
+    width: 450px
+}
+
+.made-ind .made-ind-left h2 {
+    width: 100%;
+    letter-spacing: -1.5px
+}
+
+.made-ind .user-size-wrap {
+    margin: 20px 0 0
+}
+
+.made-ind .user-size {
+    margin-top: 30px;
+    width: 100%
+}
+
+.made-ind .user-size .us-innerwrap {
+    width: 50%
+}
+
+.made-ind .user-size .us-count-wrap {
+    font-size: 45px;
+    color: #fff;
+    width: 125px
+}
+
+.made-ind .user-size .us-count-wrap.no-only {
+    width: 80px
+}
+
+.made-ind .user-size .us-innerwrap p {
+    font-size: 18px;
+    font-family: var(--primaryfont-regular);
+    color: #fff;
+    width: 30%;
+    margin-bottom: 0;
+    margin-top: 12px;
+    margin-left: 32px;
+    line-height: 1.4
+}
+
+body:not(.i18n-en) .made-ind .user-size .us-innerwrap p {
+    font-size: 16px
+}
+
+body:not(.i18n-en) .made-ind .made-ind-left {
+    width: 61%
+}
+
+.made-ind .user-size .us-innerwrap p::after {
+    content: "";
+    background: #3b8ecc;
+    height: 1px;
+    width: 100%;
+    float: left;
+    margin-top: 6px
+}
+
+.made-ind .learnMorebtn {
+    background: transparent;
+    border: 1px solid #fff;
+    margin-top: 15px;
+    transition: background-color .3s ease
+}
+
+.made-ind .learnMorebtn:not(.i18n-en) {
+    line-height: 1.3
+}
+
+.user-size:first-child .us-innerwrap:first-child .counter,.user-size:nth-child(2) .us-innerwrap:first-child .counter,.user-size:last-child .us-innerwrap:first-child .counter {
+    display: inline;
+    width: 59px
+}
+
+.user-size:nth-child(2) .us-innerwrap:first-child .counter {
+    width: 29px
+}
+
+.user-size:last-child .us-innerwrap:first-child .counter.dotbefore {
+    display: inline-block;
+    width: 16px
+}
+
+.user-size:last-child .us-innerwrap:first-child .counter.dot {
+    width: 26px
+}
+
+.i18n-en .ccode-in .made-ind::after {
+    content: "";
+    background-image: url(//www.zohowebstatic.com/sites/zweb/images/zoho_general_pages/made-us-bg.svg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 54%;
+    opacity: 1;
+    height: 100%;
+    position: absolute;
+    right: 0;
+    top: 0;
+    background-position: right bottom
+}
+
+body:not(.i18n-en) .made-ind::after {
+    right: 40px
+}
+
+.made-ind::after {
+    content: "";
+    background-image: url(//www.zohowebstatic.com/sites/zweb/images/zoho_general_pages/made-au-bg.png);
+    background-repeat: no-repeat;
+    background-size: 80%;
+    width: 55%;
+    opacity: 1;
+    height: 100%;
+    position: absolute;
+    right: 80px;
+    top: 0;
+    background-position: right bottom
+}
+
+.ccode-au .made-ind::after {
+    background-image: url(//www.zohowebstatic.com/sites/zweb/images/zoho_general_pages/made-au-bg.png);
+    opacity: .8
+}
+
+.i18n-en .ccode-in .made-ind::after {
+    background-image: url(//www.zohowebstatic.com/sites/zweb/images/zoho_general_pages/made-ind-bg.png);
+    width: 68%;
+    opacity: .6
+}
+
+.ccode-ae .made-ind::after {
+    background-image: url(//www.zohowebstatic.com/sites/zweb/images/zoho_general_pages/made-au-bg.png)
+}
+
+.new-vid-sec {
+    text-align: center;
+    padding: 130px 0 160px
+}
+
+.new-vid-sec .pri-wrap {
+    width: 59px;
+    height: 70px;
+    margin: 0 auto 8px;
+    display: block;
+    background: url(//www.zohowebstatic.com/sites/zweb/images/zoho_general_pages/gp-ai-newhome-sprite.png) left top no-repeat;
+    background-size: 465px auto;
+    background-position: -404px -10px
+}
+
+.new-vid-sec .pri-wrap img {
+    width: 60px
+}
+
+.new-vid-sec .pri-wrap::before {
+    content: "";
+    width: 55px;
+    height: 55px;
+    margin: 0 auto;
+    display: block;
+    background: url(//www.zohowebstatic.com/sites/zweb/images/zoho_general_pages/graph-ai-global-icon-sprite-2x.png) left top no-repeat;
+    background-size: 800px auto;
+    background-position: -512px -193px;
+    transform: scale(1.2);
+    display: none
+}
+
+.pri-wrap svg {
+    width: 60px
+}
+
+.new-vid-sec h5 {
+    font-family: var(--primaryfont-regular);
+    letter-spacing: -1px
+}
+
+.vid-btm {
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+
+.new-vid-sec p {
+    font-size: 18px;
+    margin: 0 auto 20px;
+    max-width: 770px;
+    color: var(--secondary-color);
+    line-height: 1.7;
+    letter-spacing: -0.2px
+}
+
+.new-vid-sec .vid-btm a span {
+    width: 16px;
+    position: relative;
+    display: inline-block;
+    margin-right: 10px
+}
+
+.new-vid-sec .vid-btm span::before {
+    content: "";
+    margin-right: 10px;
+    width: 18px;
+    height: 18px;
+    display: inline-block;
+    transition: transform .5s ease;
+    vertical-align: middle;
+    background: url(//www.zohowebstatic.com/sites/zweb/images/zoho_general_pages/gp-ai-newhome-sprite.png) left top no-repeat;
+    background-size: 500px auto;
+    background-position: -86px -102px;
+    transform: scale(1.2);
+    position: absolute;
+    left: 20px;
+    top: 15px
+}
+
+.gp-ai-bundlesect__bottom {
+    text-align: center;
+    padding-top: 30px;
+    margin-left: 45px
+}
+
+.new-vid-sec .vid-btm span:hover::before {
+    transform: scale(1.3)
+}
+
+.cta-link a.vid-btn::after {
+    display: none
+}
+
+.new-vid-sec .cta-link a {
+    padding: 1px 20px
+}
+
+.new-vid-sec .cta-link a.vid-btn {
+    border-right: 1px solid #ececec
+}
+
+.forbes-new {
+    padding: 110px 0 100px 0;
+    background-color: var(--bg-color);
+    position: relative;
+    z-index: 1
+}
+
+.forbes-new .wrapper {
+    max-width: 991px;
+    display: flex;
+    justify-content: space-between;
+    overflow: visible;
+    align-items: center;
+    flex-wrap: wrap
+}
+
+.forbes-new .learnMorebtn,.new-vid-sec .learnMorebtn {
+    background: transparent;
+    border: 1px solid var(--highlight-color);
+    margin-top: 15px;
+    transition: background-color .3s ease;
+    color: var(--highlight-color);
+    padding-right: 46px
+}
+
+.forbes-new .learnMorebtn:hover,.new-vid-sec .learnMorebtn:hover {
+    border-color: #0262a9;
+    color: #0262a9
+}
+
+.forbes-new .wrapper .left {
+    width: 64%;
+    float: left
+}
+
+.forbes-new .wrapper .right {
+    width: 34%;
+    max-width: 290px;
+    position: relative;
+    float: left
+}
+
+.forbes-new .left .innr-ctn .ttl {
+    font-size: 13px;
+    text-transform: uppercase;
+    margin-bottom: 0;
+    letter-spacing: .8px;
+    color: var(--primary-color)
+}
+
+.forbes-img {
+    background: url(//www.zohowebstatic.com/sites/zweb/images/zoho_general_pages/gp-ai-newhome-sprite.png) no-repeat;
+    background-size: 50%;
+    width: 80px;
+    height: 63px;
+    background-size: 500px auto;
+    background-position: -110px -104px
+}
+
+.codeAE .forbes-img {
+    width: 120px;
+    background-size: 520px auto;
+    background-position: -401px -122px
+}
+
+.forbes-new .left .innr-ctn span {
+    display: block;
+    font-family: var(--primaryfont-regular);
+    margin-bottom: 15px;
+    color: var(--primary-color);
+    line-height: 1.3;
+    letter-spacing: -1.2px;
+    margin-left: 0;
+    width: 100%
+}
+
+.forbes-new .left .innr-ctn p {
+    font-size: 18px;
+    letter-spacing: -0.2px;
+    margin-bottom: 15px;
+    width: 89%
+}
+
+.forbes-new .right .img-sec {
+    max-width: 340px;
+    width: 300px;
+    bottom: -6px;
+    position: relative
+}
+
+.ccode-ae .forbes-new .right .img-sec {
+    bottom: 16px
+}
+
+.forbes-new .wrapper .right .img-sec:after {
+    background: url(//www.zohowebstatic.com/sites/zweb/images/zoho_general_pages/gp-ai-dotted-forbes-smart-obj.png) no-repeat;
+    background-size: calc(100%);
+    width: 150px;
+    height: 160px;
+    position: absolute;
+    left: auto;
+    right: -60px;
+    z-index: -1;
+    bottom: 10px;
+    background-position: -30px 0
+}
+
+.forbes-new .right .img-sec .quotesdesc {
+    position: absolute;
+    bottom: 0;
+    left: -60px;
+    border-top: 1px solid #c6c6c6;
+    padding-top: 16px;
+    z-index: -1
+}
+
+.forbes-new .right .img-sec .quotesdesc .name {
+    font-size: 18px;
+    font-family: "Zoho_Puvi_Medium"
+}
+
+.forbes-new .right .img-sec .quotesdesc .description {
+    font-size: 13px;
+    color: var(--secondary-color);
+    letter-spacing: 0
+}
+
+.lang-rtl .forbes-new .right .img-sec .quotesdesc {
+    left: 0;
+    bottom: -50px
+}
+
+.optionsvg .made-ind {
+    width: 100%
+}
+
+.optionsvg .made-ind::after {
+    display: none
+}
+
+.optionsvg .made-in-right {
+    position: absolute;
+    top: -249px;
+    right: -104px;
+    width: calc(100% + 100px)
+}
+
+.optionsvg .wrapper {
+    overflow: visible
+}
+
+.optionsvg .made-ind {
+    position: relative
+}
+
+.path {
+    stroke-dasharray: 1000;
+    stroke-dashoffset: 1000;
+    animation: dash 5s linear alternate infinite
+}
+
+@keyframes dash {
+    from {
+        stroke-dashoffset: 822
+    }
+
+    to {
+        stroke-dashoffset: 0
+    }
+}
+
+.gp-ai-coreValues-banner {
+    text-align: center;
+    position: relative
+}
+
+.gp-ai-coreValues-banner img {
+    width: 100%
+}
+
+.gp-ai-coreValues-bg {
+    background: var(--bg-color)
+}
+
+.gp-ai-coreValues.wrapper {
+    border: 1px solid #e7ebf0;
+    padding: 70px 0 80px;
+    margin: 0 auto;
+    background: #fff;
+    margin-top: -240px;
+    border-radius: 3px;
+    position: relative
+}
+
+.gp-ai-coreValues {
+    padding: 80px 0 100px
+}
+
+.gp-ai-coreValues .gp-ai-color {
+    margin: 20px auto 40px
+}
+
+.gp-ai-coreValues h4 span.gp-ai-prdtitle {
+    margin: 20px auto 0;
+    max-width: 450px;
+    text-align: center
+}
+
+.gp-ai-coreValues__wrap {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 80px
+}
+
+.gp-ai-coreValues_col {
+    width: 33.33%;
+    padding: 0 60px 30px 50px
+}
+
+.gp-ai-coreValues_col h6 {
+    font-size: 30px;
+    line-height: 1.3;
+    letter-spacing: -0.5px;
+    width: 82%
+}
+
+.gp-ai-coreValues_col p {
+    line-height: 1.7;
+    font-size: 18px;
+    letter-spacing: -0.2px
+}
+
+.gp-ai-coreValues_col.longTerm {
+    padding: 0 40px 0 85px
+}
+
+.gp-ai-coreValues_col.rd {
+    padding: 0 55px 0 55px
+}
+
+.gp-ai-coreValues_col.philosophy {
+    padding: 0 85px 0 40px
+}
+
+.gp-ai-coreValues_col .coreicons {
+    height: 75px;
+    background-position: -185px 0;
+    background-size: 500px auto;
+    margin: 0 0 20px;
+    width: 75px
+}
+
+.gp-ai-coreValues_col.rd .coreicons {
+    height: 75px;
+    width: 75px;
+    margin-left: -5px;
+    background-position: -353px 0
+}
+
+.gp-ai-coreValues a {
+    margin-top: 30px
+}
+
+.gp-ai-coreValues__btn {
+    text-align: center
+}
+
+.gp-ai-coreValues_col.philosophy .coreicons {
+    height: 75px;
+    background-position: -278px 0;
+    position: relative;
+    top: 3px
+}
+
+.gp-ai-core-animate {
+    width: 100%
+}
+
+.gp-ai-coreValues-banner .gp-ai-core-animate {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: absolute;
+    top: 0;
+    height: 100%;
+    will-change: transform
+}
+
+.gp-ai-coreValues-banner::after {
+    content: "";
+    background-color: var(--bg-color);
+    width: 100%;
+    height: 50px;
+    position: absolute;
+    bottom: -24px;
+    left: 0
+}
+
+.made-ind.second::after {
+    background-image: url(//www.zohowebstatic.com/sites/zweb/images/zoho_general_pages/made-ind-bg-2.png)
+}
+
+.i18n-en .zoholics_sect {
+    display: none !important
+}
+
+.zoholics_sect {
+    display: none
+}
+
+.zoholics-outer-wrap-img {
+    max-width: 1170px;
+    width: 90%;
+    margin: 0 auto 90px;
+    position: relative;
+    overflow: hidden
+}
+
+.lang-de h1 {
+    width: 70%
+}
+
+.lang-de .gp-ai-home-right .gp-ai-main-app .gp-ai-content small,.lang-fr .gp-ai-home-right .gp-ai-main-app .gp-ai-content small {
+    height: 100px
+}
+
+.lang-de .gp-ai-coreValues_col h6 {
+    width: 100%
+}
+
+.lang-de .made-ind .made-ind-left h2 {
+    width: 480px
+}
+
+body.lang-fr .gp-ai-coreValues h4 span.gp-ai-prdtitle {
+    max-width: 680px
+}
+
+.lang-de .gp-ai-coreValues-bg {
+    padding-bottom: 100px
+}
+
+@media screen and (min-width: 1180px) {
+    body.lang-pt-br .gp-ai-enpriseleft .testimonialcont,body.lang-id .gp-ai-enpriseleft .testimonialcont,body.lang-it .gp-ai-enpriseleft .testimonialcont {
+        width:70%
+    }
+
+    body.lang-pt-br .gp-ai-enpriseleft .testimonial-video span em,body.lang-id .gp-ai-enpriseleft .testimonial-video span em,body.lang-it .gp-ai-enpriseleft .testimonial-video span em {
+        font-size: 12px
+    }
+}
+
+@media screen and (min-width: 1600px) {
+    .gp-ai_productnav__tabs .gp-ai-mobile-wrapContent {
+        overflow:visible
+    }
+
+    .gp-ai_productnav__tabs.marketplace {
+        overflow: hidden
+    }
+
+    .gp-ai_productnav__tabs.marketplace .gp-ai-mobileApp-logo {
+        top: 0;
+        right: 0
+    }
+
+    .gp-ai_productnav__tabs.marketplace .gp-ai-mobileApp-logo img {
+        width: 85%
+    }
+}
+
+@media screen and (max-width: 1440px) {
+    .gp-ai-home-left .gp-ai-top-head {
+        font-size:50px;
+        line-height: 1.2
+    }
+
+    .gp-ai-home-left h1 {
+        font-size: 22px
+    }
+}
+
+@media only screen and (max-width: 1280px) {
+    body:not(.i18n-en) .made-ind::after {
+        width:540px;
+        right: 20px
+    }
+
+    .gp-ai-main .wrapper {
+        max-width: 90%
+    }
+
+    .gp-ai-one-content p {
+        width: 360px
+    }
+
+    .gp-ai-coreValues .wrapper {
+        max-width: 100%
+    }
+
+    .gp-ai-coreValues {
+        width: 100%
+    }
+
+    .gp-ai-enterprise .wrapper {
+        padding-right: 0;
+        padding-left: 0
+    }
+
+    section.gp-ai-brand .ind-partner li {
+        transform: scale(0.9)
+    }
+
+    .testimonial-video span em {
+        font-size: 13px
+    }
+
+    .gp-ai-home-right .gp-ai-main-app .gp-ai-content small {
+        height: 70px
+    }
+
+    .lang-de .gp-ai-home-right .gp-ai-main-app .gp-ai-content small,.lang-fr .gp-ai-home-right .gp-ai-main-app .gp-ai-content small {
+        height: 120px
+    }
+
+    section.gp-ai-brand .wrapper {
+        max-width: 90%
+    }
+
+    section.gp-ai-brand li {
+        transform: scale(1);
+        margin-bottom: 25px
+    }
+
+    section.gp-ai-brand li {
+        margin: 0 40px 20px
+    }
+
+    .gp-ai-home-brand {
+        margin-bottom: 25px
+    }
+
+    .i18n-it .gp-ai-home-right .gp-ai-main-app .gp-ai-content small {
+        height: 110px
+    }
+}
+
+@media only screen and (max-width: 1180px) {
+    .gp-ai-one-suite .outer_wrap {
+        padding:190px 0 120px
+    }
+
+    .gp-ai-home-right .gp-ai-main-app {
+        padding: 5px 35px
+    }
+
+    .i18n-en .gp-ai-home-right {
+        margin-bottom: 200px
+    }
+
+    .gp-ai-one-content {
+        width: calc(100% - 90px);
+        padding: 0 50px
+    }
+
+    .made-ind .made-ind-left {
+        width: 60%
+    }
+
+    .gp-ai-top-head {
+        font-size: 45px
+    }
+
+    .ccode-in section.gp-ai-brand .ind-partner li,.ccode-us section.gp-ai-brand .ind-partner li,.ccode-uk section.gp-ai-brand .ind-partner li,.ccode-gb section.gp-ai-brand .ind-partner li,.ccode-au section.gp-ai-brand .ind-partner li,.ccode-nz section.gp-ai-brand .ind-partner li,.ccode-ae section.gp-ai-brand .ind-partner li {
+        margin: 0 1.3%
+    }
+
+    .gp-ai-enterprise .testimonialcont p {
+        font-size: 20px
+    }
+
+    .testimonialcont {
+        width: 68%
+    }
+
+    .gp-ai-home-left {
+        padding-right: 10px
+    }
+
+    .gp-ai-coreValues_col h6 {
+        font-size: 26px
+    }
+
+    .lang-de .gp-ai-coreValues_col h6 {
+        font-size: 23px
+    }
+
+    .ftapps .gp-ai-home-right .gp-ai-main-app {
+        padding: 15px 16px
+    }
+
+    .new-vid-sec {
+        padding: 90px 0 110px
+    }
+}
+
+@media only screen and (max-width: 1100px) {
+    .gp-ai-one-content {
+        border-right:0;
+        padding: 0 40px
+    }
+
+    .gp-ai-one-wrapContent {
+        border-right: 1px dashed #d0b31c;
+        vertical-align: top;
+        padding-right: 0
+    }
+
+    .gp-ai-one-suite .gp-ai-one-customervideo {
+        top: 20px;
+        width: 40%
+    }
+
+    .gp-ai-one-customervideo {
+        display: table-cell;
+        vertical-align: middle;
+        float: none;
+        padding-left: 50px
+    }
+
+    .codeIn .testimonial-video span a {
+        padding-right: 21px;
+        margin-left: 4px
+    }
+
+    .gp-ai-region-promo {
+        padding: 20px 30px
+    }
+}
+
+@media only screen and (max-width: 1050px) {
+    .made-ind::after,body:not(.i18n-en) .made-ind:after {
+        background-size:95%;
+        width: 33%;
+        opacity: 1;
+        height: 100%;
+        right: 10px;
+        top: -155px;
+        transform: scale(1.5)
+    }
+
+    .i18n-en .ccode-in .made-ind::after {
+        background-size: 100%;
+        width: 68%;
+        opacity: .6;
+        right: 0;
+        top: 0;
+        transform: scale(1);
+        margin: 0
+    }
+
+    .gp-ai-one-content h3,h2,.gp-ai-productssect h4,.gp-ai-bundlesect h4 {
+        font-size: 38px
+    }
+
+    .zgh-nav>ul>li {
+        margin-right: 20px
+    }
+
+    .gp-ai-one-content sub {
+        font-size: 13px
+    }
+
+    .forbes-new .left .innr-ctn span,.new-vid-sec h5,.gp-ai-coreValues h4 {
+        font-size: 40px
+    }
+
+    .new-vid-sec p {
+        font-size: 17px;
+        width: 75%
+    }
+
+    .new-vid-sec h5,.forbes-new .left .innr-ctn span {
+        margin-bottom: 20px
+    }
+
+    .gp-ai-one-wrapContent {
+        border-right: 1px dashed #d0b31c;
+        vertical-align: top
+    }
+
+    .gp-ai-coreValues_col h6 {
+        font-size: 26px
+    }
+
+    .gp-ai-coreValues_col p {
+        font-size: 16px
+    }
+
+    .gp-ai-coreValues_col.longTerm {
+        padding: 0 20px 0 55px
+    }
+
+    .gp-ai-coreValues_col.rd {
+        padding: 0 35px 0 55px
+    }
+
+    .gp-ai-coreValues_col.philosophy {
+        padding: 0 45px 0 40px
+    }
+
+    .forbes-new .left .innr-ctn p {
+        width: 85%;
+        font-size: 16px
+    }
+
+    .gp-ai-one-logo a {
+        transform: scale(0.8)
+    }
+
+    .gp-ai-one-content {
+        border-right: 0;
+        padding: 0 40px
+    }
+
+    .testimonial-video span em {
+        font-size: 12px
+    }
+
+    .gp-ai-one-content p {
+        font-size: 19px
+    }
+
+    .gp-ai-one-title {
+        font-size: 14px;
+        margin-bottom: 18px
+    }
+
+    .gp-ai-one-customervideo {
+        display: table-cell;
+        vertical-align: middle;
+        float: none;
+        padding-left: 50px
+    }
+
+    .gp-ai-one-suite .gp-ai-one-customervideo {
+        top: 20px;
+        width: 47%
+    }
+
+    .testimonialcont p {
+        width: 260px;
+        font-size: 22px
+    }
+
+    .head-sign-in {
+        font-size: 14px
+    }
+
+    .i18n-en .ccode-in .made-ind .made-ind-left {
+        width: 65%;
+        margin: 0
+    }
+
+    .gp-ai-enterprise .testimonialcont p {
+        font-size: 18px
+    }
+
+    .gp-ai-enpriseleft {
+        padding: 0
+    }
+
+    .gp-ai-home-brand {
+        margin: 30px auto 50px;
+        width: 100%
+    }
+
+    .gp-ai-enpriseright {
+        padding-left: 70px;
+        padding-top: 0
+    }
+
+    .gp-ai-enpriseright p {
+        font-size: 16px
+    }
+
+    h2 {
+        width: 100%
+    }
+
+    .testimonialbox {
+        padding-right: 10px;
+        padding-left: 28px
+    }
+
+    .made-ind .user-size .us-count-wrap {
+        width: 100px
+    }
+
+    .user-size:first-child .us-innerwrap:first-child .counter,.user-size:nth-child(2) .us-innerwrap:first-child .counter,.user-size:last-child .us-innerwrap:first-child .counter {
+        width: 48px
+    }
+
+    .made-ind .user-size .us-innerwrap p {
+        margin-top: 5px;
+        margin-left: 22px;
+        font-size: 16px
+    }
+
+    .made-ind .user-size .us-count-wrap.no-only {
+        width: 70px
+    }
+
+    .made-ind .user-size .us-count-wrap {
+        font-size: 37px
+    }
+
+    .made-ind .user-size-wrap {
+        margin-top: 10px
+    }
+}
+
+@media only screen and (max-width: 1023px) {
+    .ccode-us .made-ind::after,.ccode-ae .made-ind::after,.made-ind::after,body:not() .made-ind:after {
+        top:0;
+        background-size: 100%;
+        position: relative;
+        display: flex;
+        margin: 110px auto 0;
+        height: 300px;
+        transform: scale(1.3);
+        width: 350px
+    }
+
+    .lang-rtl .gp-ai-coreValues_col.longTerm {
+        padding: 0 45px 0 40px
+    }
+
+    .lang-rtl .gp-ai-coreValues_col.philosophy {
+        padding: 0 40px 0 45px
+    }
+
+    .ccode-au .made-ind::after {
+        right: 0
+    }
+
+    .lang-rtl .gp-ai-coreValues_col h6 {
+        width: 86%
+    }
+
+    .testimonial-video span {
+        width: 130px
+    }
+
+    .ccode-us .made-ind .made-ind-left,.ccode-ae .made-ind .made-ind-left,.made-ind .made-ind-left,body:not(.i18n-en) .made-ind .made-ind-left {
+        width: 80%;
+        margin: 0 auto
+    }
+
+    .ccode-us .made-ind .made-ind-left h2,.ccode-ae .made-ind .made-ind-left h2,.made-ind .made-ind-left h2,.lang-de .made-ind .made-ind-left h2 {
+        text-align: center;
+        width: 100%
+    }
+
+    .ccode-us .made-ind .user-size .us-innerwrap,.ccode-ae .made-ind .user-size .us-innerwrap,.made-ind .user-size .us-innerwrap {
+        width: 50%;
+        display: flex;
+        justify-content: space-evenly
+    }
+
+    .made-ind .user-size .us-innerwrap {
+        display: flex
+    }
+
+    .i18n-en .ccode-in .made-ind::after {
+        background-size: 100%;
+        top: 0
+    }
+
+    .i18n-en .ccode-in .made-ind .made-ind-left h2,.lang-rtl .ccode-in .made-ind .made-ind-left h2 {
+        text-align: initial
+    }
+
+    .gp-ai-enterprise .testimonialcont p {
+        font-size: 16px;
+        width: 80%
+    }
+
+    h1,.i18n-en h1 {
+        font-size: 24px;
+        width: 80%;
+        margin: 20px auto 30px
+    }
+
+    .gp-ai-home-left,.gp-ai-home-right,.i18n-en .gp-ai-home-right,.i18n-en .gp-ai-home-left {
+        float: none;
+        width: 100%;
+        padding: 0;
+        overflow: hidden
+    }
+
+    .i18n-en .gp-ai-home-left {
+        text-align: center
+    }
+
+    .gp-ai-home-right {
+        width: 370px
+    }
+
+    .gp-ai-home-left {
+        text-align: center
+    }
+
+    .gp-ai-home-left .gp-ai-color {
+        margin: 20px auto 0
+    }
+
+    .gp-ai-coreValues_col.longTerm {
+        padding: 0 17px 0 35px
+    }
+
+    .gp-ai-coreValues_col.rd,.gp-ai-coreValues_col.philosophy {
+        padding: 0 25px
+    }
+
+    .forbes-new .right .img-sec {
+        width: auto
+    }
+
+    .gp-ai-enterprise .wrapper,.gp-ai-coreValues.wrapper,.forbes-new,.gp-ai-one-suite {
+        padding: 90px 0
+    }
+
+    .i18n-en .gp-ai-one-suite {
+        padding: 0
+    }
+
+    .made-ind {
+        padding: 90px 0 0
+    }
+
+    .i18n-en .ccode-in .made-ind {
+        padding: 90px 0 130px
+    }
+
+    .fs-inner-wrap {
+        padding: 90px 0 0
+    }
+
+    .gp-ai-enterprise h2,.made-ind h2 {
+        margin-top: 0
+    }
+
+    .testimonialbox {
+        padding: 30px 20px 0 25px
+    }
+
+    .gp-ai-home-right-title {
+        padding: 30px 65px 0
+    }
+
+    .gp-ai-home-right .gp-ai-main-app {
+        padding: 15px 65px
+    }
+
+    .i18n-en .gp-ai-home-right {
+        max-width: 500px;
+        width: 90%;
+        margin: 90px auto 70px
+    }
+
+    .gp-ai-one-content p {
+        width: auto
+    }
+
+    .lang-de .gp-ai-coreValues-bg {
+        padding-bottom: 90px
+    }
+
+    .gp-ai-banner,.i18n-en .gp-ai-banner {
+        width: 100%;
+        left: 0
+    }
+
+    .i18n-en .gp-ai-banner {
+        margin-top: 30px
+    }
+
+    .gp-ai-region-promo a,.gp-ai-region-promo a span.promoappicon {
+        flex-flow: column
+    }
+
+    .gp-ai-region-promo .region-content {
+        padding: 0;
+        margin-left: 0;
+        margin: 20px 0;
+        width: 90%;
+        text-align: center
+    }
+
+    .gp-ai-region-promo .region-content:before {
+        display: none
+    }
+
+    .gp-ai-region-promo {
+        padding-top: 60px;
+        max-width: 500px;
+        margin: 0 auto;
+        box-shadow: 0
+    }
+
+    .gp-ai-region-promo .gp-ai-region-image {
+        width: 80%
+    }
+
+    .gp-ai-region-promo-container {
+        padding-bottom: 100px
+    }
+
+    .gp-ai-region-promo a span.promoappicon::before {
+        margin-bottom: 5px;
+        margin-right: 0
+    }
+
+    .gp-ai-one-suite .outer_wrap {
+        padding-top: 120px
+    }
+
+    .gp-ai-region-promo .region-content p {
+        width: 100%
+    }
+
+    body:not(.i18n-en).lang-rtl .made-ind .made-ind-left {
+        width: 100% !important
+    }
+
+    .lang-rtl span,.lang-rtl span,body.i18n-he span,.i18n-he span {
+        text-align: center
+    }
+
+    .lang-rtl .made-ind .made-ind-left h2 {
+        padding-right: 0 !important
+    }
+}
+
+@media only screen and (max-width: 991px) {
+    .zoholics-outer-wrap-img {
+        max-width:570px
+    }
+
+    .ftapps .gp-ai-home-right ul {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center
+    }
+
+    .ftapps .gp-ai-home-right .gp-ai-main-app {
+        width: 33.33%;
+        margin-bottom: 30px
+    }
+
+    .ftapps .gp-ai-home-right .gp-ai-main-app:nth-child(3) {
+        border-right: 0
+    }
+
+    .gp-ai-home-right .gp-ai-main-app .gp-ai-content small {
+        height: 56px
+    }
+
+    .i18n-it .gp-ai-home-right .gp-ai-main-app .gp-ai-content small {
+        height: 60px
+    }
+
+    .lang-de .gp-ai-home-right .gp-ai-main-app .gp-ai-content small,.lang-fr .gp-ai-home-right .gp-ai-main-app .gp-ai-content small {
+        height: 80px
+    }
+
+    .forbes-new .right .img-sec .quotesdesc {
+        bottom: -20px;
+        left: -40px
+    }
+
+    .gp-ai-coreValues.wrapper {
+        margin-top: -230px
+    }
+}
+
+@media only screen and (max-width: 816px) {
+    .testimonialvid {
+        display:flex
+    }
+
+    .testimonialvid__dtls {
+        width: 60px
+    }
+
+    .gp-ai-one-logo,.gp-ai-one-content {
+        float: none
+    }
+
+    .gp-ai-one-logo a {
+        display: inline-block;
+        font-size: 0
+    }
+
+    .gp-ai-one-logo a span::before {
+        margin: 0 auto 30px
+    }
+
+    .gp-ai-one-content {
+        width: 100%;
+        padding-left: 0;
+        text-align: center;
+        margin-top: 30px;
+        border-right: 0
+    }
+
+    .gp-ai-productssect__rightside .gp-ai-one-content {
+        text-align: left
+    }
+
+    .gp-ai-one-suite .wrapper,.gp-ai-one-wrapContent,.gp-ai-one-customervideo {
+        display: block
+    }
+
+    .gp-ai-one-wrapContent {
+        width: 100%;
+        border-right: 0;
+        border-bottom: 1px dashed #d0b31c;
+        padding-bottom: 50px
+    }
+
+    .gp-ai-productssect__rightside .gp-ai-one-wrapContent {
+        border-bottom: 0
+    }
+
+    .gp-ai-one-content {
+        padding-right: 0;
+        margin-top: 3px
+    }
+
+    .gp-ai-one-suite .wrapper {
+        width: 80%
+    }
+
+    .gp-ai-one-suite .gp-ai-one-customervideo {
+        position: relative;
+        top: 0;
+        padding-left: 0;
+        width: 100%
+    }
+
+    .gp-ai-one-suite .gp-ai-one-customervideo .testimonialcont .quotes {
+        position: relative;
+        display: block;
+        margin: 50px auto 20px;
+        top: 0
+    }
+
+    .gp-ai-one-suite .testimonialcont p {
+        margin: 0 auto 26px;
+        width: 80%;
+        text-align: center
+    }
+
+    .testimonialvid {
+        display: flex;
+        align-items: center;
+        flex-flow: column
+    }
+
+    .testimonialvid__dtls,.testimonialvid__dtls.cust-dtls p {
+        width: auto
+    }
+
+    .testimonialvid__dtls.cust-dtls {
+        padding-left: 0;
+        padding-top: 11px;
+        display: block;
+        width: 100%;
+        text-align: center
+    }
+
+    .gp-ai-enterprise .wrapper {
+        display: flex;
+        flex-flow: column-reverse
+    }
+
+    .gp-ai-enpriseleft,.gp-ai-enpriseright {
+        width: 80%;
+        margin: 0 auto
+    }
+
+    .gp-ai-enpriseleft {
+        margin-top: 80px
+    }
+
+    .gp-ai-enpriseright {
+        padding-left: 0;
+        text-align: center
+    }
+
+    .gp-ai-coreValues.wrapper {
+        margin-top: -20%
+    }
+
+    .gp-ai-one-suite .wrapper::after {
+        opacity: .5
+    }
+
+    .gp-ai-home-brand {
+        width: 100%
+    }
+
+    section.gp-ai-brand .ind-partner li {
+        margin: 0 2.5%
+    }
+
+    .gp-ai-coreValues__wrap {
+        margin-top: 50px
+    }
+
+    .testimonialvid__dtls.cust-dtls p,.testimonialvid {
+        margin-bottom: 0
+    }
+
+    .gp-ai-home-brand {
+        margin: 50px auto 25px
+    }
+
+    .gp-ai-coreValues h4 span.gp-ai-prdtitle {
+        margin: 0 auto
+    }
+
+    .i18n-en .ccode-in .made-ind .made-ind-left {
+        width: 70%
+    }
+
+    .gp-ai-one-suite .wrapper::after {
+        display: none
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .ccode-ae .other-region-banner span {
+        width:130px
+    }
+
+    .virtual_hq_workplace {
+        display: none
+    }
+
+    .virtual_hq_card_mob {
+        display: block;
+        background-color: #f8f9fb;
+        text-align: center;
+        padding-bottom: 90px
+    }
+
+    .gp-ai-one-suite .outer_wrap {
+        padding: 90px 0
+    }
+
+    .gp-ai-home-right {
+        margin: 90px auto 90px
+    }
+
+    .made-ind .made-ind-left,.i18n-en .ccode-in .made-ind .made-ind-left {
+        width: 100%
+    }
+
+    .virtual_hq_workplace {
+        width: 450px
+    }
+
+    .gp-ai-banner {
+        width: 100%;
+        left: 0
+    }
+
+    .gp-ai-coreValues_col {
+        width: 100%;
+        text-align: center
+    }
+
+    .forbes-new .left .innr-ctn .ttl {
+        margin: 0 auto
+    }
+
+    .gp-ai-coreValues_col.longTerm,.gp-ai-coreValues_col.rd,.gp-ai-coreValues_col.philosophy {
+        padding: 0;
+        width: 80%;
+        margin: 0 auto
+    }
+
+    .gp-ai-home-right .gp-ai-main-app.gp-ai-exploreprd a.arrow-icon:after {
+        right: 114px
+    }
+
+    .gp-ai-coreValues_col .coreicons,.gp-ai-coreValues_col.rd .coreicons,.gp-ai-coreValues_col.philosophy .coreicons {
+        margin-left: auto;
+        margin-right: auto
+    }
+
+    .forbes-new .wrapper {
+        flex-wrap: wrap
+    }
+
+    .forbes-new .wrapper .left {
+        width: 100%
+    }
+
+    .forbes-new .wrapper .left .innr-ctn {
+        text-align: center
+    }
+
+    .forbes-new .left .innr-ctn p {
+        width: 100%
+    }
+
+    .forbes-new .wrapper .right {
+        width: 100%;
+        margin: 40px auto 0
+    }
+
+    .footer-nav .fn-inner-wrap {
+        flex-wrap: wrap;
+        padding-bottom: 30px
+    }
+
+    .ccode-us .made-ind .made-ind-left,.ccode-ae .made-ind .made-ind-left,.made-ind .made-ind-left,body:not(.i18n-en) .made-ind .made-ind-left {
+        width: 100%
+    }
+
+    .gp-ai-enpriseleft,.gp-ai-enpriseright {
+        width: 90%
+    }
+
+    .gp-ai-enterprise .testimonialcont p {
+        font-size: 20px
+    }
+
+    .gp-ai-enterprise .testimonialcont p {
+        width: 90%
+    }
+
+    .footer-nav .fn-btm-wrap ul.gp-ai-policy {
+        max-width: 100%
+    }
+
+    .new-vid-sec p {
+        font-size: 17px;
+        width: 85%
+    }
+
+    .gp-ai-coreValues_col p {
+        margin-bottom: 40px
+    }
+
+    .testimonialbox {
+        padding-left: 45px
+    }
+
+    .gp-ai-top-head {
+        font-size: 40px
+    }
+
+    h1,.lang-de h1 {
+        width: 95%
+    }
+
+    .gp-ai-coreValues_col h6 {
+        margin: 0 auto 15px
+    }
+
+    .ftapps .gp-ai-home-right ul {
+        display: block;
+        width: 400px;
+        margin: 40px auto;
+        padding: 30px 0;
+        border: 1px solid #e7ebf0;
+        border-radius: 2px
+    }
+
+    .ftapps .gp-ai-home-right .gp-ai-main-app {
+        width: auto;
+        margin-bottom: 0;
+        border: 0;
+        display: block
+    }
+
+    .gp-ai-home-right .gp-ai-main-app .gp-ai-content small,.other-lang .gp-ai-home-right .gp-ai-main-app .gp-ai-content small {
+        height: auto
+    }
+
+    .ftapps .gp-ai-home-right .gp-ai-main-app .gp-ai-app {
+        position: absolute;
+        margin-bottom: 0
+    }
+
+    .ftapps .gp-ai-home-right .gp-ai-main-app a {
+        padding: 0 0 0 70px;
+        text-align: initial
+    }
+
+    .ftapps .gp-ai-home-right .gp-ai-main-app {
+        padding: 15px 46px 30px
+    }
+
+    .ftapps {
+        padding: 60px 0
+    }
+
+    section.gp-ai-brand li {
+        transform: scale(1)
+    }
+
+    section.gp-ai-brand li {
+        margin: 0 20px 25px
+    }
+
+    .forbes-new .right .img-sec .quotesdesc {
+        bottom: -40px;
+        left: 0
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .gp-ai-home-right,.i18n-en .gp-ai-home-right {
+        width:90%
+    }
+
+    .gp-ai-home-right .gp-ai-main-app {
+        padding: 15px 35px
+    }
+
+    .gp-ai-home-right-title {
+        padding: 30px 35px 0
+    }
+
+    .gp-ai-home-right .gp-ai-main-app.gp-ai-exploreprd a.arrow-icon:after {
+        right: 35px
+    }
+
+    .gp-ai-enpriseright p {
+        width: 90%;
+        margin: 0 auto 30px
+    }
+
+    .gp-ai-coreValues h4 span.gp-ai-prdtitle {
+        max-width: 290px
+    }
+
+    .gp-ai-home-right .gp-ai-main-app.gp-ai-exploreprd,.explore-btn {
+        background-color: var(--highlight-color)
+    }
+
+    .gp-ai-home-right .gp-ai-main-app.gp-ai-exploreprd label,.explore-btn label {
+        color: #fff
+    }
+
+    .gp-ai-home-right .gp-ai-main-app.gp-ai-exploreprd a span.gp-ai-content.arrow-icon::after,.explore-btn a span.gp-ai-content.arrow-icon::after {
+        background-position: -75px -76px;
+        right: -40px
+    }
+
+    .gp-ai-home-right .gp-ai-main-app.gp-ai-exploreprd .gp-ai-content,.explore-btn .gp-ai-content {
+        width: auto;
+        display: inline-block
+    }
+
+    .gp-ai-home-right .gp-ai-main-app.gp-ai-exploreprd a {
+        padding: 20px 42px 25px
+    }
+
+    .codeIn .testimonialbox {
+        padding-right: 0
+    }
+
+    .codeIn .testimonial-video span {
+        width: 130px
+    }
+
+    .ccode-us .made-ind::after,.ccode-ae .made-ind::after,.made-ind::after,body:not(.i18n-en) .made-ind:after {
+        margin: 40px auto 0;
+        transform: scale(1)
+    }
+
+    .testimonialbox {
+        display: block;
+        padding-left: 0;
+        padding-right: 0;
+        text-align: center
+    }
+
+    .gp-ai-enterprise .testimonialcont p {
+        text-align: center;
+        width: 95%;
+        margin: 0 auto 20px
+    }
+
+    .testimonialcont .foundername {
+        font-size: 16px
+    }
+
+    .testimonial-video {
+        margin-top: 20px
+    }
+
+    .testimonial-video img {
+        max-width: 70%
+    }
+
+    .testimonialbox .testimonialcont .quotes {
+        left: 30px
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    .gp-ai-home-right,.i18n-en .gp-ai-home-right {
+        margin:40px auto
+    }
+
+    .gp-ai-region-promo .region-content p {
+        font-size: 18px
+    }
+
+    section.gp-ai-brand .wrapper,.gp-ai-enterprise .wrapper,.forbes-new,.gp-ai-one-suite {
+        padding: 80px 0
+    }
+
+    .i18n-en .gp-ai-one-suite {
+        padding: 0
+    }
+
+    .made-ind {
+        padding: 80px 0 130px
+    }
+
+    .fs-inner-wrap {
+        padding: 80px 0 0
+    }
+
+    .gp-ai-home-brand {
+        margin: 50px auto 25px
+    }
+
+    .gp-ai-enpriseleft,.gp-ai-enpriseright,.gp-ai-enterprise .testimonialcont p {
+        width: 100%
+    }
+
+    .gp-ai-enterprise .testimonialcont p {
+        font-size: 16px
+    }
+
+    .testimonial-video span {
+        text-align: center
+    }
+
+    .testimonial-video span img {
+        max-width: 80%
+    }
+
+    .testimonial-video span em {
+        margin-top: -10px
+    }
+
+    .made-ind .made-ind-left h2 {
+        margin-top: 0;
+        text-align: center;
+        width: auto
+    }
+
+    .made-ind .made-ind-left {
+        width: 100%
+    }
+
+    .i18n-en .ccode-in .made-ind .made-ind-left h2 {
+        text-align: center;
+        width: 100%
+    }
+
+    .made-ind .user-size .us-innerwrap p {
+        margin-left: 0
+    }
+
+    .user-size:nth-child(2) .us-innerwrap:first-child .counter {
+        width: 24px
+    }
+
+    .user-size:first-child .us-innerwrap:first-child .counter {
+        width: 42px
+    }
+
+    .i18n-en .ccode-in .made-ind {
+        padding-bottom: 60%
+    }
+
+    .ccode-us .made-ind,.ccode-ae .made-ind {
+        padding-bottom: 0
+    }
+
+    .made-ind {
+        padding-bottom: 0
+    }
+
+    .made-ind .user-size .us-innerwrap {
+        display: flex;
+        align-items: center;
+        justify-content: flex-start
+    }
+
+    .ccode-us .passionblk,.ccode-ae .passionblk {
+        display: inline-block
+    }
+
+    .made-ind::after {
+        width: 70%;
+        opacity: .7
+    }
+
+    .made-ind::after,body:not(.i18n-en) .made-ind:after {
+        width: 90%;
+        opacity: 1;
+        margin: 7px auto 0
+    }
+
+    .i18n-en .ccode-in .made-ind::after {
+        width: 100%
+    }
+
+    .made-ind .user-size .us-innerwrap:nth-child(2) {
+        padding-left: 5%
+    }
+
+    .made-ind .user-size .us-count-wrap {
+        font-size: 32px
+    }
+
+    .made-ind .learnMorebtn {
+        font-size: 11px
+    }
+
+    .forbes-new .left .innr-ctn span,.new-vid-sec h5,.gp-ai-coreValues h4 {
+        font-size: 34px
+    }
+
+    .made-ind .user-size .us-innerwrap p {
+        width: 40%
+    }
+
+    h1 {
+        font-size: 18px;
+        width: 95%
+    }
+
+    .gp-ai-top-head {
+        font-size: 28px;
+        line-height: 1.3;
+        letter-spacing: -0.4px
+    }
+
+    .gp-ai-home-brand,.new-vid-sec p {
+        width: 100%
+    }
+
+    .gp-ai-banner-sec {
+        padding-top: 80px
+    }
+
+    .made-ind .made-ind-left h2,.i18n-en .ccode-in .made-ind .made-ind-left h2 {
+        width: 100%
+    }
+
+    .gp-ai-enpriseright p,.new-vid-sec p,.gp-ai-coreValues_col p,.forbes-new .left .innr-ctn p {
+        font-size: 18px
+    }
+
+    .gp-ai-coreValues__wrap {
+        margin-top: 40px
+    }
+
+    .gp-ai-coreValues.wrapper {
+        padding: 40px 0 80px
+    }
+
+    .gp-ai-coreValues-banner::after {
+        display: none;
+        height: 50%;
+        bottom: -60px
+    }
+
+    .gp-ai-coreValues.wrapper {
+        margin-top: -10%
+    }
+
+    .codeIn .testimonial-video span a {
+        margin-left: 3px
+    }
+
+    .made-ind .user-size .us-innerwrap,.ccode-us .made-ind .user-size .us-innerwrap,.ccode-ae .made-ind .user-size .us-innerwrap {
+        display: flex;
+        align-items: center;
+        justify-content: initial;
+        width: 85%
+    }
+
+    .made-ind .user-size .us-count-wrap {
+        width: 110px !important
+    }
+
+    .made-ind .learnMorebtn {
+        margin-top: 40px
+    }
+
+    .made-ind .user-size .us-innerwrap p {
+        margin-top: 5px;
+        margin-left: 22px;
+        font-size: 18px;
+        width: auto
+    }
+
+    .made-ind .user-size {
+        display: flex;
+        align-items: center;
+        flex-flow: column;
+        margin-top: 8px
+    }
+
+    .made-ind .user-size .us-innerwrap:nth-child(2) {
+        padding-left: 0
+    }
+
+    .ftapps .gp-ai-home-right ul {
+        width: 100%
+    }
+
+    .ftapps .gp-ai-home-right h4 {
+        font-size: 40px
+    }
+
+    .gp-ai-region-promo .region-content,.gp-ai-region-promo .gp-ai-region-image {
+        width: 100%
+    }
+
+    body:not(.i18n-en).lang-rtl .made-ind .made-ind-left {
+        width: 100% !important
+    }
+}
+
+@media only screen and (max-width: 400px) {
+    .made-ind .user-size-wrap {
+        float:none;
+        margin: 0 auto;
+        width: 80%
+    }
+
+    .made-ind .user-size .us-count-wrap {
+        float: none
+    }
+
+    .made-ind .user-size .us-innerwrap p {
+        font-size: 15px;
+        margin-left: 0
+    }
+
+    .made-ind .user-size .us-count-wrap {
+        font-size: 30px
+    }
+
+    .made-ind .user-size .us-count-wrap {
+        width: 100px !important
+    }
+
+    .made-ind .learnMorebtn {
+        margin-top: 40px
+    }
+
+    .made-ind .user-size .us-innerwrap:nth-child(2) {
+        padding-left: 0
+    }
+
+    .made-ind .user-size-wrap {
+        width: 100%
+    }
+
+    .made-ind .user-size:last-child .us-innerwrap:nth-child(2) {
+        display: block
+    }
+
+    .testimonialbox {
+        padding-left: 0
+    }
+
+    .made-ind .user-size .us-count-wrap.no-only {
+        width: 90px
+    }
+
+    .ccode-us .made-ind .made-ind-left h2,.ccode-ae .made-ind .made-ind-left h2,.made-ind .made-ind-left h2 {
+        font-size: 34px
+    }
+
+    .gp-ai-coreValues h4 {
+        width: 90%;
+        margin: 0 auto
+    }
+
+    .gp-ai-home-right {
+        width: 90%
+    }
+
+    .gp-ai-home-right .gp-ai-main-app {
+        padding: 15px 20px
+    }
+
+    .gp-ai-home-right .gp-ai-main-app a {
+        padding: 0 0 0 60px
+    }
+
+    .gp-ai-home-right .gp-ai-main-app .gp-ai-content label {
+        font-size: 22px
+    }
+
+    .gp-ai-main-app .new-tag {
+        left: 60px
+    }
+
+    .gp-ai-home-right .gp-ai-main-app.gp-ai-exploreprd label {
+        font-size: 14px
+    }
+
+    .gp-ai-home-right-title {
+        font-size: 12px;
+        padding: 30px 20px 0
+    }
+
+    .gp-ai-home-right .gp-ai-main-app.gp-ai-exploreprd a.arrow-icon:after {
+        right: 13px
+    }
+
+    .gp-ai-home-right .gp-ai-main-app.gp-ai-exploreprd label,.explore-btn label,.gp-ai-btn,.blueLink,.learnMorebtn,.trybtn,.made-ind .cta-link a {
+        font-size: 12px
+    }
+
+    .testimonialbox {
+        padding-right: 10px
+    }
+
+    .codeIn .testimonial-video span {
+        width: 120px
+    }
+
+    .vid-btm {
+        flex-flow: column
+    }
+
+    .new-vid-sec .learnMorebtn:first-child {
+        margin-right: 0
+    }
+}
+
+.i18n-he .gp-ai-top-head {
+    direction: ltr
+}
+
+.lang-rtl .gp-ai-top-head,.lang-rtl .gp-ai-top-head>span,.lang-rtl .gp-ai-top-head+h1,.lang-rtl .gp-ai-home-btn,.lang-rtl .gp-ai-main-app .gp-ai-content label,.lang-rtl .gp-ai-main-app .gp-ai-content label+small,.lang-rtl .btncontainer,.lang-rtl .gp-ai-brand .wrapper,.lang-rtl .gp-ai-brand .wrapper h3,.lang-rtl .new-vid-sec h5,.lang-rtl .new-vid-sec p,.lang-rtl .gp-ai-coreValues__btn,.lang-rtl .footer-signup h6,.lang-rtl .footer-signup h6 span,.lang-rtl .footer-signup .cta-signup,.lang-rtl .gp-ai-home-brand ul {
+    text-align: center
+}
+
+.lang-rtl .ftapps .gp-ai-home-right .gp-ai-main-app {
+    border-left: 1px solid #eaeef4;
+    border-right: 0
+}
+
+.lang-rtl .ftapps .gp-ai-home-right .gp-ai-main-app:last-child {
+    border-left: 0
+}
+
+.lang-rtl .new-vid-sec .watchVid.learnMorebtn {
+    padding-left: 30px;
+    padding-right: 50px
+}
+
+.lang-rtl .new-vid-sec .vid-btm span::before {
+    right: 20px;
+    left: unset;
+    margin-left: 10px;
+    margin-right: 0
+}
+
+.lang-rtl .gp-ai-one-logo.fl,.lang-rtl .user-size-wrap .fl {
+    float: right
+}
+
+.lang-rtl .gp-ai-one-content.fl {
+    padding: 0 70px 0 90px;
+    border-right: 0;
+    border-left: 1px dashed #d0b31c
+}
+
+.lang-rtl .testimonialcont .quotes {
+    left: unset;
+    right: 0
+}
+
+.lang-rtl .testimonialvid__dtls.cust-dtls {
+    padding: 0 20px 0 0
+}
+
+.lang-rtl .made-ind .made-ind-left {
+    float: left
+}
+
+.lang-rtl .made-ind .user-size .us-innerwrap p {
+    margin: 12px 32px 0 0
+}
+
+.lang-rtl .gp-ai-coreValues_col.longTerm {
+    padding: 0 85px 0 40px
+}
+
+.lang-rtl .gp-ai-coreValues_col.philosophy {
+    padding: 0 40px 0 85px
+}
+
+body:not(.i18n-en).lang-rtl .made-ind .made-ind-left {
+    width: 51%
+}
+
+.lang-rtl .made-ind .user-size .us-count-wrap span {
+    font-size: 40px
+}
+
+.lang-rtl .made-ind .made-ind-left h2 {
+    padding-right: 10px
+}
+
+.lang-rtl .testimonialcont .quotes {
+    left: unset;
+    right: 0
+}
+
+.lang-rtl .user-size-wrap .us-count-wrap.fl {
+    direction: ltr
+}
+
+.lang-rtl .footer-nav .gp-ai-scl-share {
+    text-align: center
+}
+
+.lang-rtl .gp-ai-one-content.fl *,.lang-rtl .gp-ai-enpriseright.fl *,.lang-rtl .gp-ai-one-logo.fl {
+    text-align: center
+}
+
+@media only screen and (max-width: 1100px) {
+    .lang-rtl .gp-ai-one-wrapContent {
+        padding-left:0
+    }
+}
+
+@media only screen and (max-width: 900px) {
+    body:not(.i18n-en).lang-rtl .made-ind .made-ind-left {
+        width:96% !important
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .lang-rtl .ftapps .gp-ai-home-right .gp-ai-main-app a {
+        padding:0 70px 0 0
+    }
+
+    .lang-rtl .gp-ai-home-right .gp-ai-main-app .gp-ai-app {
+        left: unset;
+        right: 0
+    }
+
+    .lang-rtl .ftapps .gp-ai-home-right .gp-ai-main-app .gp-ai-content * {
+        text-align: right
+    }
+
+    .lang-rtl .gp-ai-coreValues__wrap *,.lang-rtl .forbes-new .wrapper .left,.lang-rtl .forbes-new .wrapper .left * {
+        text-align: center
+    }
+
+    body:not(.i18n-en).lang-rtl .made-ind .made-ind-left {
+        width: 100%
+    }
+
+    .lang-rtl .gp-ai-coreValues_col.longTerm,.lang-rtl .gp-ai-coreValues_col.rd,.lang-rtl .gp-ai-coreValues_col.philosophy {
+        padding: 0
+    }
+
+    .lang-rtl .ftapps .gp-ai-home-right .gp-ai-main-app {
+        border: 0
+    }
+
+    .i18n-he .ftapps .gp-ai-home-right h4 {
+        font-size: 34px
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    .i18n-he .ftapps .gp-ai-home-right h4 {
+        font-size:34px
+    }
+}
+
+.i18n-vi .made-ind-left h2 {
+    width: 535px !important
+}
+
+.i18n-vi .gp-ai-enpriseright h2 {
+    width: 100%
+}
+
+.i18n-vi .gp-ai-one-suite .blueLink {
+    display: block
+}
+
+.i18n-vi .gp-ai-top-head,.i18n-vi section.gp-ai-brand h3,.i18n-vi .gp-ai-one-title,.i18n-vi .gp-ai-one-content sub {
+    font-family: 'Montserratregular'
+}
+
+.i18n-vi .testimonialcont p {
+    font-family: 'Montserratsemibold'
+}
+
+@media only screen and (max-width: 1023px) {
+    .made-ind-left h2 {
+        width:100% !important
+    }
+}
+
+.other-lang .testimonialvid__dtls.cust-dtls {
+    padding-left: 15px
+}
+
+.i18n-nl .gp-ai-one-suite span.testi_img {
+    background-position: -14px -23px
+}
+
+.i18n-vi .gp-ai-one-suite span.testi_img {
+    background-position: -398px -20px
+}
+
+.i18n-fr .gp-ai-one-suite span.testi_img {
+    background-position: -204px -23px
+}
+
+.gp-ai-one-suite span.testi_img {
+    width: 90px;
+    height: 100px;
+    display: block;
+    background: url(//www.zohowebstatic.com/sites/zweb/images/commonroot/gp-ai-ot-customer-sprite-image.png) no-repeat 0 0;
+    background-size: 880px
+}
+
+.i18n-nl .gp-ai-enterprise .testi_img {
+    background-position: -563px -10px
+}
+
+.i18n-vi .gp-ai-enterprise .testi_img {
+    background-position: -687px -5px
+}
+
+.gp-ai-enterprise .testi_img {
+    width: 120px;
+    height: 150px;
+    display: block;
+    background: url(//www.zohowebstatic.com/sites/zweb/images/commonroot/gp-ai-ot-customer-sprite-image.png) no-repeat 0 0;
+    background-size: 1000px
+}
+
+.i18n-id .gp-ai-one-suite .gp-ai-one-customervideo,.i18n-es-xl .gp-ai-one-suite .gp-ai-one-customervideo,.lang-rtl .gp-ai-one-suite .gp-ai-one-customervideo,.i18n-it .gp-ai-one-suite .gp-ai-one-customervideo {
+    display: none !important
+}
+
+.i18n-id .gp-ai-one-suite .wrapper::after,.i18n-es-xl .gp-ai-one-suite .wrapper::after,.lang-rtl .gp-ai-one-suite .wrapper::after,.i18n-it .gp-ai-one-suite .wrapper::after {
+    display: none
+}
+
+.i18n-id .gp-ai-one-suite .gp-ai-one-content.fl,.i18n-es-xl .gp-ai-one-suite .gp-ai-one-content.fl,.lang-rtl .gp-ai-one-suite .gp-ai-one-content.fl,.i18n-it .gp-ai-one-suite .gp-ai-one-content.fl {
+    border: 0;
+    text-align: center;
+    padding: 0;
+    float: none;
+    margin: 0 auto
+}
+
+.i18n-id .gp-ai-one-suite .wrapper,.i18n-es-xl .gp-ai-one-suite .wrapper,.lang-rtl .gp-ai-one-suite .wrapper,.i18n-it .gp-ai-one-suite .wrapper {
+    justify-content: center
+}
+
+.i18n-id .gp-ai-one-logo.fl,.i18n-es-xl .gp-ai-one-logo.fl,.lang-rtl .gp-ai-one-logo.fl,.i18n-it .gp-ai-one-logo.fl {
+    float: none
+}
+
+.i18n-id .gp-ai-one-wrapContent,.i18n-es-xl .gp-ai-one-wrapContent,.lang-rtl .gp-ai-one-wrapContent,.i18n-it .gp-ai-one-wrapContent {
+    padding-right: 0;
+    border: 0;
+    width: 90%;
+    margin: 0 auto
+}
+
+.i18n-id .gp-ai-one-suite .gp-ai-one-content p,.i18n-es-xl .gp-ai-one-suite .gp-ai-one-content p,.lang-rtl .gp-ai-one-suite .gp-ai-one-content p,.i18n-it .gp-ai-one-suite .gp-ai-one-content p {
+    margin: 0 auto 20px;
+    max-width: 800px;
+    width: 100%
+}
+
+.i18n-id .gp-ai-one-suite,.i18n-es-xl .gp-ai-one-suite,.lang-rtl .gp-ai-one-suite,.i18n-it .gp-ai-one-suite {
+    padding: 60px 0
+}
+
+.i18n-id .gp-ai-enpriseleft,.i18n-es-xl .gp-ai-enpriseleft,.lang-rtl .gp-ai-enpriseleft,.i18n-it .gp-ai-enpriseleft {
+    display: none
+}
+
+.i18n-id .gp-ai-enpriseright.fl,.i18n-es-xl .gp-ai-enpriseright.fl,.lang-rtl .gp-ai-enpriseright.fl,.i18n-it .gp-ai-enpriseright.fl {
+    float: none;
+    padding-left: 0;
+    text-align: center;
+    margin: 0 auto;
+    width: 80%
+}
+
+.i18n-id .gp-ai-enpriseright h2,.i18n-es-xl .gp-ai-enpriseright h2,.lang-rtl .gp-ai-enpriseright h2,.i18n-it .gp-ai-enpriseright h2 {
+    margin: 50px auto 15px
+}
+
+.i18n-id .gp-ai-enterprise .wrapper,.i18n-es-xl .gp-ai-enterprise .wrapper,.lang-rtl .gp-ai-enterprise .wrapper,.i18n-it .gp-ai-enterprise .wrapper {
+    padding: 0 0 90px
+}
+
+.i18n-es-xl .gp-ai-one-logo a,.i18n-id .gp-ai-one-logo a,.lang-rtl .gp-ai-one-logo a,.i18n-it .gp-ai-one-logo a {
+    display: inline-block
+}
+
+.i18n-th .gp-ai-one-suite span.testi_img {
+    background-position: -302px -20px
+}
+
+.i18n-th .gp-ai-enterprise .testi_img {
+    background-position: -820px -5px
+}
+
+.i18n-pt-br .gp-ai-one-suite span.testi_img {
+    background-position: -169px -178px
+}
+
+.i18n-pt-br .gp-ai-enterprise .testi_img {
+    background-position: -304px -178px
+}
+
+@media(max-width: 992px) {
+    .i18n-pt-br .zgh-nav {
+        padding:0 0 0 30px
+    }
+}
+
+.i18n-it .gp-ai-coreValues-bg h4 span.gp-ai-prdtitle {
+    max-width: 560px
+}
+
+
+.gp-ai-app-img{
+    position: absolute;
+    left: -22px;
+    top: 15px;
+}
+
+@media only screen and (max-width: 1023px){
+.gp-ai-home-right {
+    max-width: 500px;
+    width: 90%;
+    margin: 190px auto 70px;
+}
+
+.cmp-header__wrapper .experiencefragment.header .xf-content-height .cmp-image__header-logo img{max-height: 9vh !important; margin-top: 0.4rem;}
+.cmp-header__wrapper .experiencefragment.header .xf-content-height .cmp-navigation__primary-nav>nav>ul.cmp-navigation__group{padding-top: 20px;}
+}
